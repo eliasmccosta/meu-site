@@ -1,0 +1,267 @@
+---
+title: Geoestatística aplicada a agricultura de precisão
+author:
+  - admin
+date: 'r Sys.Date()'
+slug: geo
+categories:
+  - R
+  - Programação
+  - Geoestatística
+tags:
+  - Agricultura de Precisão
+  - Mapping
+  - Geoestatística
+  - DSM
+subtitle: 'Geoestatística aplicada ao mapeamento da fertilidade do solo'
+summary: 'Um exemplo de aplicação de geoestatística usando o R'
+authors: []
+lastmod: '2022-08-20T12:22:36-03:00'
+featured: no
+draft: no
+image:
+  caption: 'Image credit: [**Elias**](https://www.instagram.com/eliasmendescosta/)'
+  focal_point: ""
+  placement: 3
+  preview_only: no
+math: true
+projects:
+  - Bahia
+bibliography: references.bib
+csl: geoderma-regional.csl
+---
+
+
+
+<div id="introdução" class="section level1">
+<h1>Introdução</h1>
+<p>A geoestatística como conhecemos hoje começou com os trabalhos de <span class="citation">Krige (<a href="#ref-Krige1951" role="doc-biblioref">1951</a>)</span>. Para ele somente a informação dada pela variância não seria suficiente para explicar o fenômeno em estudo. Para tal, seria necessário levar em consideração a distância entre as observações. A partir daí surge o conceito da <code>geoestatística</code>, que leva em consideração a <code>localização geográfica</code> e a <code>dependência espacial</code> entre amostras.
+<span class="citation">Matheron (<a href="#ref-Matheron1963" role="doc-biblioref">1963</a>)</span> e <span class="citation">Matheron (<a href="#ref-Matheron1971" role="doc-biblioref">1971</a>)</span> , baseado-se nas observações de Krige, desenvolveu a teoria das <code>variáveis regionalizadas</code>. Uma variável regionalizada é uma função numérica com distribuição espacial, que varia de um ponto a outro com continuidade aparente, mas cujas variações não podem ser representadas por uma função matemática simples.
+A teoria das variáveis regionalizadas pressupõe que a variação de uma variável pode ser expressa pela soma de três componentes: a) uma componente estrutural, associada a um valor médio constante ou a uma tendência constante; b) uma componente aleatória, espacialmente correlacionada; e c) um ruído aleatório ou erro residual.
+Assim um valor da variável Z em um local x é dado por:</p>
+<p><span class="math display">\[ Z(x)=m(x)+\varepsilon′(x)+\varepsilon′′ \]</span>
+onde: m(<strong>x</strong>) é uma função determinística que descreve a componente estrutural de Z
+em x; ε′(<strong>x</strong>) é um termo estocástico, que varia localmente e depende espacialmente de
+m(<strong>x</strong>); ε′′ é um ruído aleatório não correlacionado, com distribuição normal com
+média zero e variância σ2</p>
+<p>Um dos modelos mais simplistas dessa variação é o calculado pelo <code>inverso do quadrado da distância</code> que assume que qualquer atributo do solo varia a taxa fixa do inverso da distância, o que na prática não é bem verdade, mas em muitos casos esse modelo atende a necessidade.</p>
+<div id="variograma" class="section level2">
+<h2>Variograma</h2>
+<p>O variograma é uma ferramenta básica de suporte às técnicas de krigagem, que permite representar quantitativamente a variação de um fenômeno regionalizado no espaço. Considere duas variáveis regionalizadas, X e Y, onde X = Z(x) e Y = Z(x+h). Neste caso, referem-se ao mesmo atributo medido em duas posições diferentes.</p>
+<p>O nível de dependência entre essas duas variáveis regionalizadas, X e Y, é representado pelo variograma, 2γ(<strong>h</strong>), o qual é definido como a esperança matemática do quadrado da diferença entre os valores de pontos no espaço, separados pelo vetor distância <strong>h</strong>, isto é,</p>
+<p><span class="math display">\[ 2γ(h) = E{[Z(x)-Z(x+h)] 2 } = Var[Z(x)-Z(x+h)]\]</span>
+Através de uma amostra z(x i ), i=1, 2, /home/elias/MEGA/Geo., n, o variograma pode ser estimado por</p>
+<p><span class="math display">\[ 2Ŷ(h)=\frac{1}{N(h)}\sum^{N(h)}_{i=1}[Z(x_i)-Z(X_i+h)]²\]</span>
+onde:
+- 2Ŷ(<strong>h</strong>) - é o variograma estimado;
+- N(h) - é o número de pares de valores medidos, z(<strong>xi</strong>) e z(<strong>xi+h</strong>), separados por um vetor distância <strong>h</strong>;
+- z(xi) e z(xi +h), - são valores da i-ésima observação da variável regionalizada, coletados nos pontos <strong>xi</strong> e <strong>xi+h</strong> (i = 1, /home/elias/MEGA/Geo., n), separados pelo vetor <strong>h</strong>.</p>
+</div>
+<div id="parâmetros-do-semivariograma" class="section level2">
+<h2>Parâmetros do semivariograma</h2>
+<p>O seu padrão representa o que, intuitivamente, se espera de dados de campo, isto é, que as diferenças {Z(<strong>xi</strong>) - Z(<strong>xi+h</strong>)} decresçam à medida que <strong>h</strong>, a distância que os separa decresce. É esperado que observações mais próximas geograficamente tenham um comportamento mais semelhante entre si do que aquelas separadas por maiores distâncias. Desta maneira, é esperado que γ(<strong>h</strong>) aumente com a distância <strong>h</strong>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:variogram"></span>
+<img src="semivariograma.png" alt="Exemplo de Semivariograma." width="564" />
+<p class="caption">
+Figure 1: Exemplo de Semivariograma.
+</p>
+</div>
+<ul>
+<li>Alcance (a) (range): distância dentro da qual as amostras apresentam-se correlacionadas espacialmente.</li>
+<li>Patamar (C) (sill): é o valor do semivariograma correspondente a seu alcance (a).Deste ponto em diante, considera-se que não existe mais dependência espacial entre as amostras, porque a variância da diferença entre pares de amostras (Var[Z(<strong>x</strong>) - Z(<strong>x+h</strong>)]) torna-se invariante com a distância. Pode ser definido também como variância total.</li>
+<li>Efeito Pepita (C0)(nugget): A medida que <strong>h</strong> tende para 0 (zero), g(<strong>h</strong>) se aproxima de um valor positivo chamado Efeito Pepita (C0), que revela a descontinuidade do semivariograma para distâncias menores do que a menor distância entre as amostras, pode ser definido também como variância residual.</li>
+</ul>
+</div>
+<div id="estrutura-espacial-local" class="section level2">
+<h2>Estrutura espacial local</h2>
+<p>Se consideramos as coordenadas de cada ponto é possível obervar uma tendência regional ou uma estrutura local dos dados, umas das formas mais simples de observar a dependência espacial é atraves de plot espacial dos valores observados.</p>
+<p>Agora analisamos a ideia de dependência espacial local: “mais perto no espaço geográfico implica mais perto no espaço de atributos”. Isso pode ser verdade ou não;e se for verdade, o intervalo de dependência irá variar, dependendo do processo físico que produziu o atributo que está sendo investigado, nesse caso o teor de argila do solo.
+O conceito fundamental é que deve ser entendido nesse contexto é a <code>autocorrelação espacial</code>: um valor de atributo pode ser correlacionado consigo mesmo, com a força da correlação dependendo da distância de separação (e possivelmente na direção). Isso deve ser evidente como uma relação entre a distância de separação e correlação; para análisar essas relações usamos o conceito de <code>semivariância</code> como já mencionado quando apresentado o semivariograma.Esse análise é feita com base no número de pares possíveis do dataset que pode ser determinado por (n × (n - 1))/2 pares.</p>
+<p>Quando fazemos o variograma experimental dos teores de COT, é calculado as semivariâncias <em>médias</em> dos pares de pontos versus distância <em>média</em>(também conhecido como “lag”), com cumprimento definido pelo usuário, e distância máxima de busca <em>cutoff</em>.</p>
+</div>
+<div id="modelos-teóricos" class="section level2">
+<h2>Modelos teóricos</h2>
+<p>Selecionar uma forma de modelo é uma arte; a melhor maneira é a partir do conhecimento do processo espacial e da forma como o modelo se ajusta ao semivariograma esperimental.
+A função vgm especifica um modelo de variograma. No conjunto anterior nós estimamos esses parâmetros observando o variograma empírico, então os fornecemos como parâmetros do modelo. Observe que para cada modelo há um conjunto de parâmetro que melhor se ajusta. Para fins de exemplo vamos testar os 3 principais modelos, neles teremos que ajustar o “parcial sill” (contribuição) <code>psill</code> que é o patamar menos o efeito pepita (nugget) e o alcance (range)
+Possíveis modelos no pacote <code>gstat</code></p>
+<pre class="r"><code>library(gstat)
+library(sp)
+library(readxl)
+library(tmap)
+library(raster)
+print(show.vgms())</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<pre class="r"><code>data &lt;- read_excel(&quot;/home/elias/MEGA/Geo/data/Análises.xls&quot;, 
+                       col_types = c(&quot;numeric&quot;, &quot;numeric&quot;, &quot;numeric&quot;, 
+                                     &quot;numeric&quot;, &quot;numeric&quot;, &quot;numeric&quot;, 
+                                     &quot;numeric&quot;, &quot;numeric&quot;, &quot;numeric&quot;, 
+                                     &quot;numeric&quot;))
+
+## Definindo o sistema de projeto do conjunto de dados
+WGS23S  = sp::CRS(&quot;+proj=utm +zone=23 +south +datum=WGS84 +units=m +no_defs +ellps=WGS84 +towgs84=0,0,0&quot;)
+
+## Transformando o dataframe &quot;data&quot; em informação espacial
+coordinates(data) = ~X+Y
+sp::proj4string(data) = WGS23S ## Definindo sistema de coordenadas para os DADOS
+
+plot(data)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-1.png" width="672" /></p>
+<pre class="r"><code>## Carregando arquivo raster para uso como grid de refer?ncia na interpolação
+raster=raster::brick(&quot;/home/elias/MEGA/Geo/raster/mosaico.tif&quot;)
+#plotRGB(raster, 1, 2, 3)
+sp::proj4string(raster) = WGS23S 
+#raster=projectRaster(raster, crs = WGS23S)
+#plot(raster)
+## Transformando o arquivo &quot;raster&quot; em arquivo &quot;SpatialPixelsDataFrame&quot; para posterior uso como grid de referência
+grid=as(raster, &quot;SpatialPixelsDataFrame&quot;)
+
+############### Analisando de forma qualitativa a depedência espacial)
+plot(data, asp=1, cex=4*data$ADT/max(data$ADT), pch=1)</code></pre>
+<pre><code>## Warning in max(data$ADT): no non-missing arguments to max; returning -Inf</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-2.png" width="672" /></p>
+<pre class="r"><code>#############
+# Aqui vamos ver de forma detalhada e didática (passo a passo) da avaliação de depedência espacial. Na prática não há necessidade de seguir todos esses passos. 
+
+n &lt;- length(data$COT) # comprimento do conjunto de dados
+n*(n-1)/2  ## Calculando o número de pares de pontos</code></pre>
+<pre><code>## [1] 903</code></pre>
+<pre class="r"><code># Agora como exercício vamos calcular a semivariância entre os dois primeiros pontos do dataset
+coordinates(data)[1,] # linha 1</code></pre>
+<pre><code>##       X       Y 
+##  634733 7481375</code></pre>
+<pre class="r"><code>coordinates(data)[2,] # linha 2</code></pre>
+<pre><code>##       X       Y 
+##  634745 7481350</code></pre>
+<pre class="r"><code>sep &lt;- dist(coordinates(data)[1:2,]) # distância entre o ponto 1 e ponto 2
+gamma &lt;- 0.5 * (data$ADT[1] - data$ADT[2])^2 # semivariância entre o ponto 1 e ponto 2
+
+max(dist(data@coords))*2/3 # Máxima distância entre os pontos, para limitar a distância do variograma em 2/3 da Máxima distância</code></pre>
+<pre><code>## [1] 188.4203</code></pre>
+<pre class="r"><code>min(dist(data@coords)) # minima distância entre pontos, ajuda a definir o tamanho do lag</code></pre>
+<pre><code>## [1] 11.40175</code></pre>
+<pre class="r"><code># Variograma de núvem
+variograma &lt;- gstat::variogram(COT ~ 1, data, cloud = TRUE, cutoff = Inf)
+plot(variograma, ylab = &quot;semivariância&quot;, xlab = &quot;distância (m)&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-3.png" width="672" /></p>
+<pre class="r"><code># Variograma experimental
+v &lt;- variogram(COT ~ 1, data, cutoff=90, width=7)
+print(plot(v, plot.numbers=F))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-4.png" width="672" /></p>
+<pre class="r"><code># width é o tamanho do lag (passo), ou seja, um ponto médio (uma simplificação) a cada 1800 m
+# Cutoff = distância Máxima de busca que a gente viu em 2/3 é em torno de 70000 m, mas vimos que uma distância mais curta é melhor então usamos 11000
+
+
+####### Alguns exemplos de possíveis modelos disponíveis em R #####
+print(show.vgms())</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-5.png" width="672" /></p>
+<pre class="r"><code>### Modelo esférico
+vm1 &lt;- vgm(psill=15, model=&quot;Sph&quot;,range=40,nugget=0)
+print(plot(v, pl=F, model=vm1, main = &quot;Esférico&quot;))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-6.png" width="672" /></p>
+<pre class="r"><code>### Modelo Exponencial
+vm2 &lt;- vgm(psill=15, model=&quot;Exp&quot;,range=15,nugget=0)
+print(plot(v, pl=F, model=vm2))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-7.png" width="672" /></p>
+<pre class="r"><code>### Modelo Gaussiano
+vm3 &lt;- vgm(psill=16, model=&quot;Gau&quot;,range=20,nugget=0)
+print(plot(v, pl=F, model=vm3))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-8.png" width="672" /></p>
+<pre class="r"><code># Modelo Ajustado esférico
+(vmf1 &lt;- fit.variogram(v, vm1))</code></pre>
+<pre><code>## Warning in fit.variogram(v, vm1): No convergence after 200 iterations: try
+## different initial values?</code></pre>
+<pre><code>##   model    psill    range
+## 1   Nug  0.00000  0.00000
+## 2   Sph 14.66166 35.26004</code></pre>
+<pre class="r"><code>print(plot(v, pl=F, model=vmf1))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-9.png" width="672" /></p>
+<pre class="r"><code># Modelo Ajustado Exponencial
+(vmf2 &lt;- fit.variogram(v, vm2))</code></pre>
+<pre><code>##   model    psill    range
+## 1   Nug  0.00000  0.00000
+## 2   Exp 15.34669 14.71238</code></pre>
+<pre class="r"><code>print(plot(v, pl=F, model=vmf2))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-10.png" width="672" /></p>
+<pre class="r"><code># Modelo Gaussiano
+(vmf3 &lt;- fit.variogram(v, vm3))</code></pre>
+<pre><code>## Warning in fit.variogram(object, model, fit.sills = fit.sills, fit.ranges =
+## fit.ranges, : No convergence after 200 iterations: try different initial values?</code></pre>
+<pre><code>##   model    psill    range
+## 1   Nug  0.00000  0.00000
+## 2   Gau 14.59874 16.27831</code></pre>
+<pre class="r"><code>print(plot(v, pl=F, model=vmf3))</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/lendo%20e%20plotando%20os%20dados-11.png" width="672" />
+# krigagem
+Agora usamos a estrutura espacial para interpolar “de forma otimizada” para os locais não amostrados. Existem muitas maneiras de interpolar; vamos primeiro investigar a krigagem ordinária.
+O que há de tão especial na krigagem?
+• Prevê em qualquer ponto como a média ponderada dos valores em pontos não amostrados
+• Os pesos dados a cada ponto da amostra são ótimos, dado a estrutura de covariância, conforme revelado pelo modelo de variograma (neste sentido o que é “melhor” se ajutou)
+• A variação de krigagem em cada ponto é gerada automaticamente como parte do processo de cálculo dos pesos.</p>
+</div>
+<div id="krigagem-ordinária" class="section level2">
+<h2>Krigagem ordinária</h2>
+<p>Antes de fazer as predições nos grids para geração dos mapas vamos fazer as predições no conjunto de dados de validação para avaliar o desempenho dos modelos.</p>
+<pre class="r"><code>### Krigando no grid para geração do mapa
+## Carregando o limite da área no formato shapefile
+limite &lt;- maptools::readShapeSpatial(&quot;/home/elias/MEGA/Geo/shape/limite.shp&quot;, 
+                                     proj4string=WGS23S, verbose=TRUE)</code></pre>
+<pre><code>## Warning: readShapeSpatial is deprecated; use rgdal::readOGR or sf::st_read</code></pre>
+<pre><code>## Shapefile type: PolygonZ, (15), # of Shapes: 1</code></pre>
+<pre><code>## Warning: readShapePoly is deprecated; use rgdal::readOGR or sf::st_read</code></pre>
+<pre><code>## Shapefile type: PolygonZ, (15), # of Shapes: 1</code></pre>
+<pre class="r"><code>### Predicão Exp
+grid &lt;- krige(COT ~ 1, locations=data, newdata=grid, model=vm3)</code></pre>
+<pre><code>## [using ordinary kriging]</code></pre>
+<pre class="r"><code>grid &lt;- raster::stack(grid)
+grid = raster::mask(grid, limite)
+raster = raster::mask(raster, limite)
+
+tm_shape(limite)+
+  tm_polygons(col = &quot;lightgrey&quot;)+
+  tm_shape(data) +
+  tm_symbols(col = &quot;COT&quot;, palette = &#39;YlOrRd&#39;, size = &quot;COT&quot;, scale = 1.5,
+             legend.size.show = F,    # comment this line to see the original size legend
+             legend.col.show = T,     # comment this line to see the original color legend
+             title.col=&quot;AWC (mm)&quot;) +
+  tm_compass(position = c(&quot;center&quot;, &quot;top&quot;), size=4) +
+  tm_grid(alpha = 0.2, labels.size = 1, labels.rot = c(0,90), n.x=5, n.y=6) + 
+  tm_scale_bar(position = c(&quot;right&quot;, &quot;bottom&quot;), text.size =1) +
+  tm_layout(title = &quot;&quot;, legend.position = c(&quot;left&quot;, &quot;top&quot;), main.title.position = &#39;center&#39;, legend.text.size = 1)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/kriging-1.png" width="672" /></p>
+<pre class="r"><code>tm_shape(grid$var1.pred) +
+  tm_raster(title = &quot;COT (g.kg-1)&quot;, style = &quot;cont&quot;,  breaks = c(0,5,10,15,20,25))+
+  tm_shape(limite)+
+  tm_polygons(col = &quot;black&quot;, alpha = 0, border.col=&quot;black&quot;)+
+  tm_compass(position = c(&quot;right&quot;, &quot;top&quot;), size=4) +
+  tm_grid(alpha = 0.2, labels.size = 1, labels.rot = c(0,90), n.x=3, n.y=3) + 
+  tm_scale_bar(position = c(&quot;right&quot;, &quot;bottom&quot;), text.size =1) +
+  tm_layout(title = &quot;&quot;, legend.position = c(&quot;left&quot;, &quot;top&quot;), main.title.position = &#39;center&#39;, legend.text.size = 1)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/kriging-2.png" width="672" /></p>
+<pre class="r"><code>tm_shape(raster) +
+  tm_rgb(r=1, g=2, b=3)+
+  tm_shape(limite)+
+  tm_polygons(col = &quot;black&quot;, alpha = 0, border.col=&quot;black&quot;)+
+  tm_compass(position = c(&quot;right&quot;, &quot;top&quot;), size=4) +
+  tm_grid(alpha = 0.2, labels.size = 1, labels.rot = c(0,90), n.x=3, n.y=3) + 
+  tm_scale_bar(position = c(&quot;right&quot;, &quot;bottom&quot;), text.size =1) +
+  tm_layout(title = &quot;&quot;, legend.position = c(&quot;left&quot;, &quot;top&quot;), main.title.position = &#39;center&#39;, legend.text.size = 1)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/kriging-3.png" width="672" /></p>
+<div id="se-você-chegou-até-aqui-muito-bem" class="section level3">
+<h3>Se você chegou até aqui muito bem !!!! 👏👏👏</h3>
+</div>
+</div>
+</div>
+<div id="referências" class="section level1 unnumbered">
+<h1>Referências</h1>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-Krige1951" class="csl-entry">
+Krige, D.G., 1951. A statistical approach to some basic mine valuation problems on the witwatersand. Journal of the Chemical, Metallurgical and Mining Society of South Africa 52, 119–139.
+</div>
+<div id="ref-Matheron1971" class="csl-entry">
+Matheron, G., 1971. The theory of regionalized variables and its applications. Les Cahiers du Centre de Morphologie Mathematique in Fontainebleu, Paris 211.
+</div>
+<div id="ref-Matheron1963" class="csl-entry">
+Matheron, G., 1963. Principles of geostatistics. Economic Geology 58, 1246–1266.
+</div>
+</div>
+</div>

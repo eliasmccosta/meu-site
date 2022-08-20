@@ -1,0 +1,48 @@
+---
+title: Geoestatística aplicada a agricultura de precisão
+author:
+  - admin
+date: 'r Sys.Date()'
+slug: geo
+categories:
+  - R
+  - Programação
+  - Geoestatística
+tags:
+  - Agricultura de Precisão
+  - Mapping
+  - Geoestatística
+  - DSM
+subtitle: 'Geoestatística aplicada ao mapeamento da fertilidade do solo'
+summary: 'Um exemplo de aplicação de geoestatística usando o R'
+csl: [geoderma-regional.csl]
+authors: []
+lastmod: '2022-08-20T12:22:36-03:00'
+featured: no
+draft: no
+image:
+  caption: 'Image credit: [**Elias**](https://www.instagram.com/eliasmendescosta/)'
+  focal_point: ""
+  placement: 3
+  preview_only: no
+math: true
+projects:
+  - Bahia
+---
+
+# Introdução
+
+A geoestatística como conhecemos hoje começou com os trabalhos de . Para ele somente a informação dada pela variância não seria suficiente para explicar o fenômeno em estudo. Para tal, seria necessário levar em consideração a distância entre as observações. A partir daí surge o conceito da `geoestatística`, que leva em consideração a `localização geográfica` e a `dependência espacial` entre amostras. 
+Matheron (1963, 1971), baseado-se nas observações de Krige, desenvolveu a teoria das `variáveis regionalizadas`. Uma variável regionalizada é uma função numérica com distribuição espacial, que varia de um ponto a outro com continuidade aparente, mas cujas variações não podem ser representadas por uma função matemática simples.
+A teoria das variáveis regionalizadas pressupõe que a variação de uma variável pode ser expressa pela soma de três componentes: a) uma componente estrutural, associada a um valor médio constante ou a uma tendência constante; b) uma componente aleatória, espacialmente correlacionada; e c) um ruído aleatório ou erro residual.
+Assim um valor da variável Z em um local x é dado por:
+
+$$ Z(x)=m(x)+\varepsilon′(x)+\varepsilon′′ $$
+onde: m(**x**) é uma função determinística que descreve a componente estrutural de Z
+em x; ε′(**x**) é um termo estocástico, que varia localmente e depende espacialmente de
+m(**x**); ε′′ é um ruído aleatório não correlacionado, com distribuição normal com
+média zero e variância σ2
+
+Um dos modelos mais simplistas dessa variação é o calculado pelo `inverso do quadrado da distância` que assume que qualquer atributo do solo varia a taxa fixa do inverso da distância, o que na prática não é bem verdade, mas em muitos casos esse modelo atende a necessidade. 
+
+# Referências
