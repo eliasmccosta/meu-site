@@ -1,27 +1,27 @@
 ---
-title: 'Training pedologist for soil mapping-Contextualizing methods and its accuracy using the project pedagogy approach'
+title: 'Use of Airborne Radar Images and Machine Learning Algorithms to Map Soil Clay, Silt, and Sand Contents in Remote Areas under the Amazon Rainforest'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ana Carolina de S. Ferreira
-- Marcos Bacis Ceddia
 - admin
+- Marcos Bacis Ceddia
 - Érika F. M. Pinheiro
 - Mariana Melo do Nascimento
 - Gustavo M. Vasques
-
+  
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-11-01T00:00:00Z'
-doi: 'https://doi.org/10.3390/rs14225711'
+date: '2022-01-01T00:00:00Z'
+doi: 'doi.org/10.3390/rs14225711'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Remote Sensing*
-publication_short: In *RS*
+publication_short: In *RBCS*
 
 abstract:   Soil texture has a great influence on the physical–hydric and chemical behavior of soils.
 In the Amazon regions, due to the presence of dense forest cover and limited access to roads,
@@ -61,14 +61,11 @@ sampling thereof, the results showed the potential of ML algorithms boosted by a
 band to map soil clay, silt, and sand contents in the Amazon 
 
 # Summary. An optional shortened abstract.
-summary: The PPA demonstrates relevance in the teaching-learning process of soil mapping.
-  Combination of data-driven and expert knowledge methods are advised for future courses.
-  Soil mapping using new tools involves multidisciplinary knowledge.
-  This course can serve as a guide to meet the needs of PronaSolos
+summary: Digital soil mapping; soil texture; radar P-band; reference area; soil survey
 
 tags:
-- PronaSolos
-- Pedagogy Project Approach
+- DSM
+- Amazon Rain Forest
 - Machine Learning
 
 # Display this page in the Featured widget?
@@ -79,14 +76,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.rbcsjournal.org/wp-content/uploads/articles_xml/1806-9657-rbcs-45-e0200130/1806-9657-rbcs-45-e0200130.x22228.pdf'
+url_pdf: 'https://www.mdpi.com/2072-4292/14/22/5711'
 url_code: ''
 url_dataset: ''
 url_poster: 'https://www.instagram.com/p/CMhOJkbDZxx/'
-url_project: 'The authors acknowledge the National Petroleum Agency (ANP) for funding the project
-“Digital Mapping of Soils in Oil and Gas Exploration and Production Areas - Case Studies of
-the North and Northeast Brazilian Fields” under the agreement number 5850.0105881.17.9
-(PETROBRAS/FAPUR/UFRRJ) that enabled the training of pedologists.'
+url_project: 'The authors acknowledge the National Petroleum Agency (ANP) for funding
+the project “Digital Mapping of Soils in Oil and Gas Exploration and Production Areas—Case Stud-
+ies of the North and Northeast Brazilian Fields” under the agreement number 5850.0105881.17.9
+(PETROBRAS/FAPUR/UFRRJ) and Evaluation of Graduate Education (CAPES, finance code 001)'
 url_slides: ''
 url_source: ''
 url_video: ''
