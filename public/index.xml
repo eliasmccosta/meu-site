@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elias M. Costa</title>
+    <link>https://eliasmcosta.netlify.app/</link>
+      <atom:link href="https://eliasmcosta.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elias M. Costa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sat, 20 Aug 2022 12:22:36 -0300</lastBuildDate>
+    <image>
+      <url>https://eliasmcosta.netlify.app/media/icon_hu7a95d294645c46fa741ff9356371500f_596140_512x512_fill_lanczos_center_3.png</url>
+      <title>Elias M. Costa</title>
+      <link>https://eliasmcosta.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Métodos e técnicas de MDS</title>
+      <link>https://eliasmcosta.netlify.app/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://eliasmcosta.netlify.app/courses/example/example1/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Se quer levar o curso para sua empresa ou instituição por favor entre em contato&lt;/code&gt;
+Nesse curso você irá conhecer as bases do mapeamento digital do solo.
+Compreender como covariáveis ambientais podem ser usadas, em modelos de predição espacial do solo. Vai conhecer técnicas avançadas de aprendizado de máquina que bem como avaliação de desempenho e otimização de algorítimos.
+Explorar diferentes esquemas de amostragem para calibração de validação de modelos.&lt;/p&gt;
+&lt;h2 id=&#34;tópicos&#34;&gt;Tópicos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1- Introdução e revisão&lt;/li&gt;
+&lt;li&gt;2- Geoestatística para mapeamento de solos&lt;/li&gt;
+&lt;li&gt;3- Preparação de dados de solo e covariáveis ambientais&lt;/li&gt;
+&lt;li&gt;4- Sensoriamento remoto e proximal do solo&lt;/li&gt;
+&lt;li&gt;5- Machine learning para mapeamento&lt;/li&gt;
+&lt;li&gt;6- Quantificação e propagação de incerteza&lt;/li&gt;
+&lt;li&gt;7- Amostragem para mapeamento e validação estatística&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Exceto o tṕoico 1 todos os tópicos descritos podem ser abordados como um curso separado dependendo da necessidade de aprofundamento desejado&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Escrita científica e relatório técnico reprodutível</title>
+      <link>https://eliasmcosta.netlify.app/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://eliasmcosta.netlify.app/courses/example/example2/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Se quer levar o curso para sua empresa ou instituição por favor entre em contato&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;O objetivo desse curso é apresentar algumas ferramentas de organização de referências.  Neste curso, você irá aprender a inserir e a organizar os
+Além disso, você poderá citar e referenciar documentos de acordo com diferentes estilos de formatação dentro do Microsoft Word ou do LibreOffice mesmo no Latex ou Rmarkdown. Por fim, você poderá criar grupos e gerenciar sua rede de contatos dentro no Mendeley ou Zotero. Ainda irá aprender a escrever relatórios automatizados com o Latex e/ou Rmarkdown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1- Mendeley&lt;/li&gt;
+&lt;li&gt;2- Zotero&lt;/li&gt;
+&lt;li&gt;3- Sincronização&lt;/li&gt;
+&lt;li&gt;4- Arquivo .bib&lt;/li&gt;
+&lt;li&gt;5- Latex&lt;/li&gt;
+&lt;li&gt;6- Rmarkdown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Todos os tópicos descritos podem ser abordados como um curso separado dependendo da necessidade de aprofundamento desejado&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formação e caracterização de solos</title>
+      <link>https://eliasmcosta.netlify.app/courses/example/example3/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://eliasmcosta.netlify.app/courses/example/example3/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Se quer levar o curso para sua empresa ou instituição por favor entre em contato&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nesse curso você irá aprender sobre: Gênese, morfologia e classificação dos solos. Vai compreender a interação entre os fatores e processos de formação do solo e sua influência nos atributos morfológicos, físicos, químicos e mineralógicos do solo. Vai ser capaz de atráves da caracterização dos atributos morfológico dos horizontes do perfil como espessura, transição, cor, textura, estrutura e consistência, entre outros, ter uma melhor compreensão da dinâmica de formação do solo, assim como sua classificação e inferências sobre o melhor manejo e o planejamento de uso sutentável.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1- Noções gerais de geologia e geomorfologia&lt;/li&gt;
+&lt;li&gt;1.1- Rochas e minerais constituintes&lt;/li&gt;
+&lt;li&gt;1.2- Conceitos básicos de geomorfologia&lt;/li&gt;
+&lt;li&gt;2- Formação de solos&lt;/li&gt;
+&lt;li&gt;2.1- Fatores: material de origem, tempo, relevo, clima e organismos&lt;/li&gt;
+&lt;li&gt;2.2- Processos pedogenéticos múltiplos: adição, perdas, transformação e translocação&lt;/li&gt;
+&lt;li&gt;2.3- Processos   pedogenéticos   específicos:   podzolização,   latolização,   gleização,   salinização   etc&amp;hellip;&lt;/li&gt;
+&lt;li&gt;3- Classificação e as principais classes de solos do Brasil&lt;/li&gt;
+&lt;li&gt;3.1- Características morfológicas, físicas, químicas e mineralógicas&lt;/li&gt;
+&lt;li&gt;3.2- Sistema brasileiro de classificação de solos&lt;/li&gt;
+&lt;li&gt;3.3- Distribuição e importância agronômica das principais ordens de solos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Todos os tópicos descritos podem ser abordados como um curso separado dependendo da necessidade de aprofundamento desejado&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geoestatística aplicada a agricultura de precisão</title>
+      <link>https://eliasmcosta.netlify.app/post/geo/</link>
+      <pubDate>Sat, 20 Aug 2022 12:22:36 -0300</pubDate>
+      <guid>https://eliasmcosta.netlify.app/post/geo/</guid>
+      <description>
+
+
+&lt;div id=&#34;introdução&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introdução&lt;/h1&gt;
+&lt;p&gt;A geoestatística como conhecemos hoje começou com os trabalhos de &lt;span class=&#34;citation&#34;&gt;Krige (&lt;a href=&#34;#ref-Krige1951&#34; role=&#34;doc-biblioref&#34;&gt;1951&lt;/a&gt;)&lt;/span&gt;. Para ele somente a informação dada pela variância não seria suficiente para explicar o fenômeno em estudo. Para tal, seria necessário levar em consideração a distância entre as observações. A partir daí surge o conceito da &lt;code&gt;geoestatística&lt;/code&gt;, que leva em consideração a &lt;code&gt;localização geográfica&lt;/code&gt; e a &lt;code&gt;dependência espacial&lt;/code&gt; entre amostras.
+&lt;span class=&#34;citation&#34;&gt;Matheron (&lt;a href=&#34;#ref-Matheron1963&#34; role=&#34;doc-biblioref&#34;&gt;1963&lt;/a&gt;)&lt;/span&gt; e &lt;span class=&#34;citation&#34;&gt;Matheron (&lt;a href=&#34;#ref-Matheron1971&#34; role=&#34;doc-biblioref&#34;&gt;1971&lt;/a&gt;)&lt;/span&gt; , baseado-se nas observações de Krige, desenvolveu a teoria das &lt;code&gt;variáveis regionalizadas&lt;/code&gt;. Uma variável regionalizada é uma função numérica com distribuição espacial, que varia de um ponto a outro com continuidade aparente, mas cujas variações não podem ser representadas por uma função matemática simples.
+A teoria das variáveis regionalizadas pressupõe que a variação de uma variável pode ser expressa pela soma de três componentes: a) uma componente estrutural, associada a um valor médio constante ou a uma tendência constante; b) uma componente aleatória, espacialmente correlacionada; e c) um ruído aleatório ou erro residual.
+Assim um valor da variável Z em um local x é dado por:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ Z(x)=m(x)+\varepsilon′(x)+\varepsilon′′ \]&lt;/span&gt;
+onde: m(&lt;strong&gt;x&lt;/strong&gt;) é uma função determinística que descreve a componente estrutural de Z
+em x; ε′(&lt;strong&gt;x&lt;/strong&gt;) é um termo estocástico, que varia localmente e depende espacialmente de
+m(&lt;strong&gt;x&lt;/strong&gt;); ε′′ é um ruído aleatório não correlacionado, com distribuição normal com
+média zero e variância σ2&lt;/p&gt;
+&lt;p&gt;Um dos modelos mais simplistas dessa variação é o calculado pelo &lt;code&gt;inverso do quadrado da distância&lt;/code&gt; que assume que qualquer atributo do solo varia a taxa fixa do inverso da distância, o que na prática não é bem verdade, mas em muitos casos esse modelo atende a necessidade.&lt;/p&gt;
+&lt;div id=&#34;variograma&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Variograma&lt;/h2&gt;
+&lt;p&gt;O variograma é uma ferramenta básica de suporte às técnicas de krigagem, que permite representar quantitativamente a variação de um fenômeno regionalizado no espaço. Considere duas variáveis regionalizadas, X e Y, onde X = Z(x) e Y = Z(x+h). Neste caso, referem-se ao mesmo atributo medido em duas posições diferentes.&lt;/p&gt;
+&lt;p&gt;O nível de dependência entre essas duas variáveis regionalizadas, X e Y, é representado pelo variograma, 2γ(&lt;strong&gt;h&lt;/strong&gt;), o qual é definido como a esperança matemática do quadrado da diferença entre os valores de pontos no espaço, separados pelo vetor distância &lt;strong&gt;h&lt;/strong&gt;, isto é,&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ 2γ(h) = E{[Z(x)-Z(x+h)] 2 } = Var[Z(x)-Z(x+h)]\]&lt;/span&gt;
+Através de uma amostra z(x i ), i=1, 2, /home/elias/MEGA/Geo., n, o variograma pode ser estimado por&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ 2Ŷ(h)=\frac{1}{N(h)}\sum^{N(h)}_{i=1}[Z(x_i)-Z(X_i+h)]²\]&lt;/span&gt;
+onde:
+- 2Ŷ(&lt;strong&gt;h&lt;/strong&gt;) - é o variograma estimado;
+- N(h) - é o número de pares de valores medidos, z(&lt;strong&gt;xi&lt;/strong&gt;) e z(&lt;strong&gt;xi+h&lt;/strong&gt;), separados por um vetor distância &lt;strong&gt;h&lt;/strong&gt;;
+- z(xi) e z(xi +h), - são valores da i-ésima observação da variável regionalizada, coletados nos pontos &lt;strong&gt;xi&lt;/strong&gt; e &lt;strong&gt;xi+h&lt;/strong&gt; (i = 1, /home/elias/MEGA/Geo., n), separados pelo vetor &lt;strong&gt;h&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;parâmetros-do-semivariograma&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Parâmetros do semivariograma&lt;/h2&gt;
+&lt;p&gt;O seu padrão representa o que, intuitivamente, se espera de dados de campo, isto é, que as diferenças {Z(&lt;strong&gt;xi&lt;/strong&gt;) - Z(&lt;strong&gt;xi+h&lt;/strong&gt;)} decresçam à medida que &lt;strong&gt;h&lt;/strong&gt;, a distância que os separa decresce. É esperado que observações mais próximas geograficamente tenham um comportamento mais semelhante entre si do que aquelas separadas por maiores distâncias. Desta maneira, é esperado que γ(&lt;strong&gt;h&lt;/strong&gt;) aumente com a distância &lt;strong&gt;h&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:variogram&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;semivariograma.png&#34; alt=&#34;Exemplo de Semivariograma.&#34; width=&#34;564&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Exemplo de Semivariograma.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Alcance (a) (range): distância dentro da qual as amostras apresentam-se correlacionadas espacialmente.&lt;/li&gt;
+&lt;li&gt;Patamar (C) (sill): é o valor do semivariograma correspondente a seu alcance (a).Deste ponto em diante, considera-se que não existe mais dependência espacial entre as amostras, porque a variância da diferença entre pares de amostras (Var[Z(&lt;strong&gt;x&lt;/strong&gt;) - Z(&lt;strong&gt;x+h&lt;/strong&gt;)]) torna-se invariante com a distância. Pode ser definido também como variância total.&lt;/li&gt;
+&lt;li&gt;Efeito Pepita (C0)(nugget): A medida que &lt;strong&gt;h&lt;/strong&gt; tende para 0 (zero), g(&lt;strong&gt;h&lt;/strong&gt;) se aproxima de um valor positivo chamado Efeito Pepita (C0), que revela a descontinuidade do semivariograma para distâncias menores do que a menor distância entre as amostras, pode ser definido também como variância residual.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;estrutura-espacial-local&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Estrutura espacial local&lt;/h2&gt;
+&lt;p&gt;Se consideramos as coordenadas de cada ponto é possível obervar uma tendência regional ou uma estrutura local dos dados, umas das formas mais simples de observar a dependência espacial é atraves de plot espacial dos valores observados.&lt;/p&gt;
+&lt;p&gt;Agora analisamos a ideia de dependência espacial local: “mais perto no espaço geográfico implica mais perto no espaço de atributos”. Isso pode ser verdade ou não;e se for verdade, o intervalo de dependência irá variar, dependendo do processo físico que produziu o atributo que está sendo investigado, nesse caso o teor de argila do solo.
+O conceito fundamental é que deve ser entendido nesse contexto é a &lt;code&gt;autocorrelação espacial&lt;/code&gt;: um valor de atributo pode ser correlacionado consigo mesmo, com a força da correlação dependendo da distância de separação (e possivelmente na direção). Isso deve ser evidente como uma relação entre a distância de separação e correlação; para análisar essas relações usamos o conceito de &lt;code&gt;semivariância&lt;/code&gt; como já mencionado quando apresentado o semivariograma.Esse análise é feita com base no número de pares possíveis do dataset que pode ser determinado por (n × (n - 1))/2 pares.&lt;/p&gt;
+&lt;p&gt;Quando fazemos o variograma experimental dos teores de COT, é calculado as semivariâncias &lt;em&gt;médias&lt;/em&gt; dos pares de pontos versus distância &lt;em&gt;média&lt;/em&gt;(também conhecido como “lag”), com cumprimento definido pelo usuário, e distância máxima de busca &lt;em&gt;cutoff&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modelos-teóricos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Modelos teóricos&lt;/h2&gt;
+&lt;p&gt;Selecionar uma forma de modelo é uma arte; a melhor maneira é a partir do conhecimento do processo espacial e da forma como o modelo se ajusta ao semivariograma esperimental.
+A função vgm especifica um modelo de variograma. No conjunto anterior nós estimamos esses parâmetros observando o variograma empírico, então os fornecemos como parâmetros do modelo. Observe que para cada modelo há um conjunto de parâmetro que melhor se ajusta. Para fins de exemplo vamos testar os 3 principais modelos, neles teremos que ajustar o “parcial sill” (contribuição) &lt;code&gt;psill&lt;/code&gt; que é o patamar menos o efeito pepita (nugget) e o alcance (range)
+Possíveis modelos no pacote &lt;code&gt;gstat&lt;/code&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(gstat)
+library(sp)
+library(readxl)
+library(tmap)
+library(raster)
+print(show.vgms())&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data &amp;lt;- read_excel(&amp;quot;/home/elias/MEGA/Geo/data/Análises.xls&amp;quot;, 
+                       col_types = c(&amp;quot;numeric&amp;quot;, &amp;quot;numeric&amp;quot;, &amp;quot;numeric&amp;quot;, 
+                                     &amp;quot;numeric&amp;quot;, &amp;quot;numeric&amp;quot;, &amp;quot;numeric&amp;quot;, 
+                                     &amp;quot;numeric&amp;quot;, &amp;quot;numeric&amp;quot;, &amp;quot;numeric&amp;quot;, 
+                                     &amp;quot;numeric&amp;quot;))
+
+## Definindo o sistema de projeto do conjunto de dados
+WGS23S  = sp::CRS(&amp;quot;+proj=utm +zone=23 +south +datum=WGS84 +units=m +no_defs +ellps=WGS84 +towgs84=0,0,0&amp;quot;)
+
+## Transformando o dataframe &amp;quot;data&amp;quot; em informação espacial
+coordinates(data) = ~X+Y
+sp::proj4string(data) = WGS23S ## Definindo sistema de coordenadas para os DADOS
+
+plot(data)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Carregando arquivo raster para uso como grid de refer?ncia na interpolação
+raster=raster::brick(&amp;quot;/home/elias/MEGA/Geo/raster/mosaico.tif&amp;quot;)
+#plotRGB(raster, 1, 2, 3)
+sp::proj4string(raster) = WGS23S 
+#raster=projectRaster(raster, crs = WGS23S)
+#plot(raster)
+## Transformando o arquivo &amp;quot;raster&amp;quot; em arquivo &amp;quot;SpatialPixelsDataFrame&amp;quot; para posterior uso como grid de referência
+grid=as(raster, &amp;quot;SpatialPixelsDataFrame&amp;quot;)
+
+############### Analisando de forma qualitativa a depedência espacial)
+plot(data, asp=1, cex=4*data$ADT/max(data$ADT), pch=1)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning in max(data$ADT): no non-missing arguments to max; returning -Inf&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#############
+# Aqui vamos ver de forma detalhada e didática (passo a passo) da avaliação de depedência espacial. Na prática não há necessidade de seguir todos esses passos. 
+
+n &amp;lt;- length(data$COT) # comprimento do conjunto de dados
+n*(n-1)/2  ## Calculando o número de pares de pontos&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 903&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Agora como exercício vamos calcular a semivariância entre os dois primeiros pontos do dataset
+coordinates(data)[1,] # linha 1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       X       Y 
+##  634733 7481375&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;coordinates(data)[2,] # linha 2&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##       X       Y 
+##  634745 7481350&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sep &amp;lt;- dist(coordinates(data)[1:2,]) # distância entre o ponto 1 e ponto 2
+gamma &amp;lt;- 0.5 * (data$ADT[1] - data$ADT[2])^2 # semivariância entre o ponto 1 e ponto 2
+
+max(dist(data@coords))*2/3 # Máxima distância entre os pontos, para limitar a distância do variograma em 2/3 da Máxima distância&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 188.4203&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;min(dist(data@coords)) # minima distância entre pontos, ajuda a definir o tamanho do lag&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 11.40175&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Variograma de núvem
+variograma &amp;lt;- gstat::variogram(COT ~ 1, data, cloud = TRUE, cutoff = Inf)
+plot(variograma, ylab = &amp;quot;semivariância&amp;quot;, xlab = &amp;quot;distância (m)&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-3.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Variograma experimental
+v &amp;lt;- variogram(COT ~ 1, data, cutoff=90, width=7)
+print(plot(v, plot.numbers=F))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-4.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# width é o tamanho do lag (passo), ou seja, um ponto médio (uma simplificação) a cada 1800 m
+# Cutoff = distância Máxima de busca que a gente viu em 2/3 é em torno de 70000 m, mas vimos que uma distância mais curta é melhor então usamos 11000
+
+
+####### Alguns exemplos de possíveis modelos disponíveis em R #####
+print(show.vgms())&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-5.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Modelo esférico
+vm1 &amp;lt;- vgm(psill=15, model=&amp;quot;Sph&amp;quot;,range=40,nugget=0)
+print(plot(v, pl=F, model=vm1, main = &amp;quot;Esférico&amp;quot;))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-6.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Modelo Exponencial
+vm2 &amp;lt;- vgm(psill=15, model=&amp;quot;Exp&amp;quot;,range=15,nugget=0)
+print(plot(v, pl=F, model=vm2))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-7.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Modelo Gaussiano
+vm3 &amp;lt;- vgm(psill=16, model=&amp;quot;Gau&amp;quot;,range=20,nugget=0)
+print(plot(v, pl=F, model=vm3))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-8.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Modelo Ajustado esférico
+(vmf1 &amp;lt;- fit.variogram(v, vm1))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning in fit.variogram(v, vm1): No convergence after 200 iterations: try
+## different initial values?&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   model    psill    range
+## 1   Nug  0.00000  0.00000
+## 2   Sph 14.66166 35.26004&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(plot(v, pl=F, model=vmf1))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-9.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Modelo Ajustado Exponencial
+(vmf2 &amp;lt;- fit.variogram(v, vm2))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   model    psill    range
+## 1   Nug  0.00000  0.00000
+## 2   Exp 15.34669 14.71238&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(plot(v, pl=F, model=vmf2))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-10.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Modelo Gaussiano
+(vmf3 &amp;lt;- fit.variogram(v, vm3))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning in fit.variogram(object, model, fit.sills = fit.sills, fit.ranges =
+## fit.ranges, : No convergence after 200 iterations: try different initial values?&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   model    psill    range
+## 1   Nug  0.00000  0.00000
+## 2   Gau 14.59874 16.27831&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(plot(v, pl=F, model=vmf3))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/lendo%20e%20plotando%20os%20dados-11.png&#34; width=&#34;672&#34; /&gt;
+# krigagem
+Agora usamos a estrutura espacial para interpolar “de forma otimizada” para os locais não amostrados. Existem muitas maneiras de interpolar; vamos primeiro investigar a krigagem ordinária.
+O que há de tão especial na krigagem?
+• Prevê em qualquer ponto como a média ponderada dos valores em pontos não amostrados
+• Os pesos dados a cada ponto da amostra são ótimos, dado a estrutura de covariância, conforme revelado pelo modelo de variograma (neste sentido o que é “melhor” se ajutou)
+• A variação de krigagem em cada ponto é gerada automaticamente como parte do processo de cálculo dos pesos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;krigagem-ordinária&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Krigagem ordinária&lt;/h2&gt;
+&lt;p&gt;Antes de fazer as predições nos grids para geração dos mapas vamos fazer as predições no conjunto de dados de validação para avaliar o desempenho dos modelos.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Krigando no grid para geração do mapa
+## Carregando o limite da área no formato shapefile
+limite &amp;lt;- maptools::readShapeSpatial(&amp;quot;/home/elias/MEGA/Geo/shape/limite.shp&amp;quot;, 
+                                     proj4string=WGS23S, verbose=TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: readShapeSpatial is deprecated; use rgdal::readOGR or sf::st_read&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Shapefile type: PolygonZ, (15), # of Shapes: 1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: readShapePoly is deprecated; use rgdal::readOGR or sf::st_read&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Shapefile type: PolygonZ, (15), # of Shapes: 1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Predicão Exp
+grid &amp;lt;- krige(COT ~ 1, locations=data, newdata=grid, model=vm3)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [using ordinary kriging]&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;grid &amp;lt;- raster::stack(grid)
+grid = raster::mask(grid, limite)
+raster = raster::mask(raster, limite)
+
+tm_shape(limite)+
+  tm_polygons(col = &amp;quot;lightgrey&amp;quot;)+
+  tm_shape(data) +
+  tm_symbols(col = &amp;quot;COT&amp;quot;, palette = &amp;#39;YlOrRd&amp;#39;, size = &amp;quot;COT&amp;quot;, scale = 1.5,
+             legend.size.show = F,    # comment this line to see the original size legend
+             legend.col.show = T,     # comment this line to see the original color legend
+             title.col=&amp;quot;AWC (mm)&amp;quot;) +
+  tm_compass(position = c(&amp;quot;center&amp;quot;, &amp;quot;top&amp;quot;), size=4) +
+  tm_grid(alpha = 0.2, labels.size = 1, labels.rot = c(0,90), n.x=5, n.y=6) + 
+  tm_scale_bar(position = c(&amp;quot;right&amp;quot;, &amp;quot;bottom&amp;quot;), text.size =1) +
+  tm_layout(title = &amp;quot;&amp;quot;, legend.position = c(&amp;quot;left&amp;quot;, &amp;quot;top&amp;quot;), main.title.position = &amp;#39;center&amp;#39;, legend.text.size = 1)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/kriging-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;tm_shape(grid$var1.pred) +
+  tm_raster(title = &amp;quot;COT (g.kg-1)&amp;quot;, style = &amp;quot;cont&amp;quot;,  breaks = c(0,5,10,15,20,25))+
+  tm_shape(limite)+
+  tm_polygons(col = &amp;quot;black&amp;quot;, alpha = 0, border.col=&amp;quot;black&amp;quot;)+
+  tm_compass(position = c(&amp;quot;right&amp;quot;, &amp;quot;top&amp;quot;), size=4) +
+  tm_grid(alpha = 0.2, labels.size = 1, labels.rot = c(0,90), n.x=3, n.y=3) + 
+  tm_scale_bar(position = c(&amp;quot;right&amp;quot;, &amp;quot;bottom&amp;quot;), text.size =1) +
+  tm_layout(title = &amp;quot;&amp;quot;, legend.position = c(&amp;quot;left&amp;quot;, &amp;quot;top&amp;quot;), main.title.position = &amp;#39;center&amp;#39;, legend.text.size = 1)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/kriging-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;tm_shape(raster) +
+  tm_rgb(r=1, g=2, b=3)+
+  tm_shape(limite)+
+  tm_polygons(col = &amp;quot;black&amp;quot;, alpha = 0, border.col=&amp;quot;black&amp;quot;)+
+  tm_compass(position = c(&amp;quot;right&amp;quot;, &amp;quot;top&amp;quot;), size=4) +
+  tm_grid(alpha = 0.2, labels.size = 1, labels.rot = c(0,90), n.x=3, n.y=3) + 
+  tm_scale_bar(position = c(&amp;quot;right&amp;quot;, &amp;quot;bottom&amp;quot;), text.size =1) +
+  tm_layout(title = &amp;quot;&amp;quot;, legend.position = c(&amp;quot;left&amp;quot;, &amp;quot;top&amp;quot;), main.title.position = &amp;#39;center&amp;#39;, legend.text.size = 1)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/geo/index_files/figure-html/kriging-3.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;se-você-chegou-até-aqui-muito-bem&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Se você chegou até aqui muito bem !!!! 👏👏👏&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;referências&#34; class=&#34;section level1 unnumbered&#34;&gt;
+&lt;h1&gt;Referências&lt;/h1&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body hanging-indent&#34;&gt;
+&lt;div id=&#34;ref-Krige1951&#34; class=&#34;csl-entry&#34;&gt;
+Krige, D.G., 1951. A statistical approach to some basic mine valuation problems on the witwatersand. Journal of the Chemical, Metallurgical and Mining Society of South Africa 52, 119–139.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Matheron1971&#34; class=&#34;csl-entry&#34;&gt;
+Matheron, G., 1971. The theory of regionalized variables and its applications. Les Cahiers du Centre de Morphologie Mathematique in Fontainebleu, Paris 211.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Matheron1963&#34; class=&#34;csl-entry&#34;&gt;
+Matheron, G., 1963. Principles of geostatistics. Economic Geology 58, 1246–1266.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training pedologist for soil mapping-Contextualizing methods and its accuracy using the project pedagogy approach</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/rbcs2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/rbcs2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training pedologist for soil mapping-Contextualizing methods and its accuracy using the project pedagogy approach</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/remote-sensing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/remote-sensing/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas pedométricas</title>
+      <link>https://eliasmcosta.netlify.app/post/tools/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/post/tools/</guid>
+      <description>
+&lt;script src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;introdução&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introdução&lt;/h1&gt;
+&lt;p&gt;Nesse tutorial serão abordados através do Algoritmo para Pedologia Quantitativa (AQP em inglês) e pacotes auxiliares, uma coleção de códigos, ideias, e plotes usando o software R &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-R2019&#34; role=&#34;doc-biblioref&#34;&gt;R Core Team, 2019&lt;/a&gt;)&lt;/span&gt;. Toda a teoria por trás de grande parte do código pode ser encontrada no artigo &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S009830041200369X?via%3Dihub&#34;&gt;&lt;em&gt;Algorithms for quantitative pedology: A toolkit for soil scientists&lt;/em&gt;&lt;/a&gt; &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Beaudette2013&#34; role=&#34;doc-biblioref&#34;&gt;Beaudette et al., 2013&lt;/a&gt;)&lt;/span&gt;. Além disso alguns exemplos com aplicações das ferramentas podem ser encontrados em &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Pinheiro2016&#34; role=&#34;doc-biblioref&#34;&gt;Pinheiro et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Pinheiro2016&#34; role=&#34;doc-biblioref&#34;&gt;2016&lt;/a&gt;)&lt;/span&gt; e &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Pinheiro2018&#34; role=&#34;doc-biblioref&#34;&gt;Pinheiro et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Pinheiro2018&#34; role=&#34;doc-biblioref&#34;&gt;2018&lt;/a&gt;)&lt;/span&gt;. Para fins didáticos o tutorial foi dividido em três partes e os pacotes usados serão &lt;code&gt;soilDB&lt;/code&gt;, que contém uma base de dados de solos para análises pedométricas, &lt;code&gt;AQP&lt;/code&gt; que contém as principais ferramentas de pedologia quantitativa usadas no tutorial, &lt;code&gt;sharpshootR&lt;/code&gt; que contém uma coelção de funções que dão suporte ao levantamento e exploração de dados de solo, &lt;code&gt;SP&lt;/code&gt; um pacote que fornece classes e métodos para dados espaciais: pontos, linhas, polígonos e grades, &lt;code&gt;Hmisc&lt;/code&gt; que contém muitas funções úteis para análise de dados, gráficos de alto nível, operações utilitárias, funções para calcular o tamanho de amostras, importar e manipular conjuntos de dados, imputar valores ausentes, criação avançada de tabelas, análise de cluster entre outras funções, &lt;code&gt;lattice&lt;/code&gt; que é um sistema de visualização de dados de alto nível, poderoso e elegante, com ênfase em dados multivariados, &lt;code&gt;MASS&lt;/code&gt; com funções e conjuntos de dados para apoiar Venables e Ripley, &lt;strong&gt;Modern Applied Statistics with S&lt;/strong&gt;, &lt;code&gt;plyr&lt;/code&gt; que contém um conjunto de ferramentas que resolve problemas tais como: Divisão, aplicação e combinação de dados e &lt;code&gt;cluster&lt;/code&gt; que é um pacote com métodos para análise de componentes principais (PCA) e cluster a fim de encontrar grupos em conjunto de dados.&lt;/p&gt;
+&lt;div id=&#34;base-de-dados-dos-exercícios&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Base de dados dos exercícios&lt;/h2&gt;
+&lt;p&gt;Todos os dados usados nos exercícios ou são do pacote &lt;code&gt;AQP&lt;/code&gt; ou são do pacote &lt;code&gt;soilDB&lt;/code&gt;. Muitas das informações contidas nesse tutorial foram extraídas do &lt;a href=&#34;http://ncss-tech.github.io/AQP/&#34;&gt;projeto do AQP&lt;/a&gt; e todo crédito é dado ao autor.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Carregando os pacotes no R
+library(soilDB) 
+library(aqp)  
+library(sharpshootR) 
+library(sp) 
+library(Hmisc)
+library(lattice)
+library(MASS)
+library(plyr)
+library(cluster)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;parte-i&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Parte I&lt;/h1&gt;
+&lt;p&gt;Na parte I serão abordadas características das funções básicas do &lt;em&gt;AQP&lt;/em&gt;, conceito de coleção de perfis de solos, &lt;strong&gt;SoilProfileCollection&lt;/strong&gt;, e verificação da estrutura de dados na coleção, além de alguns plotes básicos.
+A classe &lt;strong&gt;SoilProfileCollection&lt;/strong&gt; foi projetada para simplificar o processo de trabalhar com a coleção de dados associados aos perfis de solo: dados em nível de local (site), dados em nível de horizonte, dados espaciais, dados de horizontes de diagnósticos, metadados e etc. Os exemplos listados abaixo devem ser copiados/colados deste documento e executados de forma interativa no R. Lembrando que antes de executar você deve instalar e carregar todas as bibliotecas (pacotes) mencionados.&lt;/p&gt;
+&lt;div id=&#34;criação-de-objetos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Criação de Objetos&lt;/h2&gt;
+&lt;p&gt;Os objetos &lt;strong&gt;SoilProfileCollection&lt;/strong&gt; geralmente são criados através de objetos &lt;em&gt;data.frame&lt;/em&gt; (tabelas retangulares de dados) que contêm pelo menos três colunas essenciais:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uma coluna de identificação que identifica exclusivamente grupos de horizontes, um perfil de solo (por exemplo, &lt;em&gt;pedons&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Limites superiores do horizonte&lt;/li&gt;
+&lt;li&gt;Limites inferiores do horizonte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O &lt;em&gt;data.frame&lt;/em&gt; deve ser pré-classificado de acordo com o ID do perfil e o limite superior do horizonte. A notação de fórmula é usada para definir as colunas usadas para promover um objeto &lt;em&gt;data.frame&lt;/em&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Carregando dados de solos
+# upgrade para SoilProfileCollection
+# &amp;#39;id&amp;#39; é o nome da coluna que contém o ID do perfil
+# &amp;#39;top&amp;#39; é o nome da coluna que contém os limite superior do horizonte
+# &amp;#39;bottom&amp;#39; é o nome da coluna que contém os limite inferior do horizonte
+data(sp1) # Conjunto de dados sp4 do pacote AQP (data.frame)
+aqp::depths(sp1) &amp;lt;- id ~ top + bottom 
+aqp::site(sp1) &amp;lt;- ~ group &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;acessando-configurando-e-substituindo-dados&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Acessando, configurando e substituindo dados&lt;/h2&gt;
+&lt;p&gt;As funções de acessar são usadas para extrair componentes específicos dos objetos &lt;strong&gt;SoilProfileCollection&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Métodos para inspeção dos objetos
+aqp::idname (sp1) # auto-explicativo&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;id&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;aqp::horizonDepths(sp1) # auto-explicativo&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;top&amp;quot;    &amp;quot;bottom&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;aqp::depth_units(sp1) # defaults &amp;#39;cm&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;cm&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;aqp::metadata(sp1) # &lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## $aqp_df_class
+## [1] &amp;quot;data.frame&amp;quot;
+## 
+## $aqp_group_by
+## [1] &amp;quot;&amp;quot;
+## 
+## $aqp_hzdesgn
+## [1] &amp;quot;&amp;quot;
+## 
+## $aqp_hztexcl
+## [1] &amp;quot;&amp;quot;
+## 
+## $depth_units
+## [1] &amp;quot;cm&amp;quot;
+## 
+## $stringsAsFactors
+## [1] FALSE
+## 
+## $original.order
+##  [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+## [26] 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+## [51] 51 52 53 54 55 56 57 58 59 60&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;aqp::profile_id(sp1) # vector com IDs dos perfis&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;P001&amp;quot; &amp;quot;P002&amp;quot; &amp;quot;P003&amp;quot; &amp;quot;P004&amp;quot; &amp;quot;P005&amp;quot; &amp;quot;P006&amp;quot; &amp;quot;P007&amp;quot; &amp;quot;P008&amp;quot; &amp;quot;P009&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;aqp::horizonNames(sp1) # coluna com osnomes dos dados dos horizontes&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] &amp;quot;id&amp;quot;               &amp;quot;top&amp;quot;              &amp;quot;bottom&amp;quot;           &amp;quot;bound_distinct&amp;quot;  
+##  [5] &amp;quot;bound_topography&amp;quot; &amp;quot;name&amp;quot;             &amp;quot;texture&amp;quot;          &amp;quot;prop&amp;quot;            
+##  [9] &amp;quot;structure_grade&amp;quot;  &amp;quot;structure_size&amp;quot;   &amp;quot;structure_type&amp;quot;   &amp;quot;stickiness&amp;quot;      
+## [13] &amp;quot;plasticity&amp;quot;       &amp;quot;field_ph&amp;quot;         &amp;quot;hue&amp;quot;              &amp;quot;value&amp;quot;           
+## [17] &amp;quot;chroma&amp;quot;           &amp;quot;hzID&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;aqp::siteNames(sp1) # coluna com os nomes do dados dos locais (site data)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;id&amp;quot;    &amp;quot;group&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;length(sp1) # número de perfis na coleção&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 9&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;nrow(sp1) # número de horizontes na coleção&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 60&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;names(sp1) # nomes de colunas dos dados do site e do horizonte, concatenados em um único vetor&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##          horizons1          horizons2          horizons3          horizons4 
+##               &amp;quot;id&amp;quot;              &amp;quot;top&amp;quot;           &amp;quot;bottom&amp;quot;   &amp;quot;bound_distinct&amp;quot; 
+##          horizons5          horizons6          horizons7          horizons8 
+## &amp;quot;bound_topography&amp;quot;             &amp;quot;name&amp;quot;          &amp;quot;texture&amp;quot;             &amp;quot;prop&amp;quot; 
+##          horizons9         horizons10         horizons11         horizons12 
+##  &amp;quot;structure_grade&amp;quot;   &amp;quot;structure_size&amp;quot;   &amp;quot;structure_type&amp;quot;       &amp;quot;stickiness&amp;quot; 
+##         horizons13         horizons14         horizons15         horizons16 
+##       &amp;quot;plasticity&amp;quot;         &amp;quot;field_ph&amp;quot;              &amp;quot;hue&amp;quot;            &amp;quot;value&amp;quot; 
+##         horizons17         horizons18               site 
+##           &amp;quot;chroma&amp;quot;             &amp;quot;hzID&amp;quot;            &amp;quot;group&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;min(sp1) # profundidade de perfil mais raso da coleção&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 59&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;max(sp1) # profundidade de perfil mais profundo da coleção&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 240&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;dados-do-horizonte-e-do-site-local&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Dados do horizonte e do site (local)&lt;/h2&gt;
+&lt;p&gt;Normalmente, os dados do horizonte e do site são os componentes mais importantes dos objetos SoilProfileCollection. Ambos são armazenados internamente como objetos data.frame; com uma ou mais linhas (por ID do perfil) na tabela do horizonte e uma linha (por ID do perfil) na tabela do site. As colunas de qualquer tabela podem ser acessadas com a notação &lt;code&gt;$&lt;/code&gt;. Novos dados podem ser atribuídos a qualquer tabela da mesma maneira, desde que o comprimento dos novos dados sejam:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mesmo tamanho que o número de perfis na coleção (o destino é a tabela de sites).&lt;/li&gt;
+&lt;li&gt;Mesmo comprimento que o número de horizontes na coleção (o destino é a tabela do horizonte).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;plotando-soilprofilecollection&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Plotando &lt;strong&gt;SoilProfileCollection&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;O método &lt;code&gt;plot()&lt;/code&gt; para objetos &lt;strong&gt;SoilProfileCollection&lt;/strong&gt; gera esboços de perfis na coleção com base nos limites dos horizontes, alinhados verticalmente a uma sequência inteira de um ao número total de perfis. Os nomes dos horizontes são extraídos automaticamente de um nome de atributo no nível do horizonte (se presente) ou por meio de um atributo alternativo fornecido como argumento: &lt;code&gt;name = &#39;nomedacoula&#39;&lt;/code&gt;. As cores dos horizontes são geradas automaticamente a partir do atributo no nível do horizonte &lt;code&gt;soil_color&lt;/code&gt;, ou qualquer outro atributo da descrição de cor compatível com R, fornecido como argumento: &lt;code&gt;color = &#39;nomedacoula&#39;&lt;/code&gt;. Essa função é altamente personalizável; portanto, é prudente consultar a ajuda &lt;code&gt;(plotSPC)&lt;/code&gt; de tempos em tempos. As cores do solo na notação Munsell podem ser convertidas em cores compatíveis com R via &lt;code&gt;munsell2rgb()&lt;/code&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data(sp4) # Conjunto de dados sp4 do pacote AQP (data.frame)
+aqp::depths(sp4) &amp;lt;- id ~ top + bottom 
+# Atribuição de novos dados a atributos existentes ou novos
+sp4$elevation &amp;lt;- rnorm(n=length(sp4), mean=1000, sd=150) # no nível do site, com base no comprimento dos dados atribuídos
+sp4$thickness &amp;lt;- sp4$bottom - sp4$top # nível do horizonte
+# Extração de atributos específicos por nome
+sp4$clay # Vetor de conteúdo de argila (dados do horizonte)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] 21 27 32 55 25 34  3 15 27 32 25 31 33 13 21 23 15 17 12 19 14 14 22 25 40
+## [26] 51 67 24 25 32&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Os dados do horizonte e do local (site) também podem ser modificados por extração para um data.frame, seguidos pela substituição (dados do horizonte) ou junção (dados do site). Observe que, embora essa abordagem ofereça a maior flexibilidade, ela também é a mais perigosa. A substituição dos dados do horizonte por novos dados que não estão exatamente de acordo com a classificação original pode corromper seu &lt;strong&gt;SoilProfileCollection&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# extrair dados os horizontes para o data.frame
+h &amp;lt;- aqp::horizons(sp4)
+# Adicionar uma nova coluna e salvar de volta no objeto
+h$random.numbers &amp;lt;- rnorm(n=nrow(h), mean=0, sd=1)
+# repor dados originais dos horizontes com versão modificada
+#!a ordem das linhas não deve ser alterada!
+horizons(sp4) &amp;lt;- h
+# extrair dados do site para o data.frame
+s &amp;lt;- aqp::site(sp4)
+# Adicionar um grupo para o site fake
+s$group &amp;lt;- base::factor(rep(c(&amp;#39;A&amp;#39;, &amp;#39;B&amp;#39;), length.out=nrow(s)))
+# junte novos dados do site com dados anteriores: os dados antigos não são substituídos
+site(sp4) &amp;lt;- s
+# Verificar
+sp4&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## SoilProfileCollection with 10 profiles and 30 horizons
+## profile ID: id  |  horizon ID: hzID 
+## Depth range: 16 - 49 cm
+## 
+## ----- Horizons (6 / 30 rows  |  10 / 16 columns) -----
+##      id hzID top bottom name   K   Mg  Ca CEC_7 ex_Ca_to_Mg
+##  colusa    1   0      3    A 0.3 25.7 9.0  23.0        0.35
+##  colusa    2   3      8  ABt 0.2 23.7 5.6  21.4        0.23
+##  colusa    3   8     30  Bt1 0.1 23.2 1.9  23.7        0.08
+##  colusa    4  30     42  Bt2 0.1 44.3 0.3  43.0        0.01
+##   glenn    5   0      9    A 0.2 21.9 4.4  18.8        0.20
+##   glenn    6   9     34   Bt 0.3 18.9 4.5  27.5        0.20
+## [... more horizons ...]
+## 
+## ----- Sites (6 / 10 rows  |  3 / 3 columns) -----
+##         id elevation group
+##     colusa 1005.8124     A
+##      glenn  930.8280     B
+##      kings 1185.8329     A
+##   mariposa  793.5652     B
+##  mendocino 1148.8530     A
+##       napa 1176.2684     B
+## [... more sites ...]
+## 
+## Spatial Data:
+## [EMPTY]&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# plot com separação de grupos
+aqp::groupedProfilePlot(sp4, groups=&amp;#39;group&amp;#39;, max.depth=60, group.name.offset = -5, id.style=&amp;#39;side&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Esboços Temáticos
+sp4$clay # &lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] 21 27 32 55 25 34  3 15 27 32 25 31 33 13 21 23 15 17 12 19 14 14 22 25 40
+## [26] 51 67 24 25 32&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar=c(1,1,3,1)) # tighter figure margins
+plot(sp4, name=&amp;#39;name&amp;#39;, color=&amp;#39;clay&amp;#39;,cex.names=0.5,cex.id=0.5, id.style=&amp;#39;top&amp;#39;,col.legend.cex=1,family=&amp;quot;serif&amp;quot;, col.label=&amp;#39;Argila&amp;#39;, )&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-7-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sp4$Ca # &lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1]  9.0  5.6  1.9  0.3  4.4  4.5  1.4  7.0  4.4  5.8  6.2  6.2  4.4  2.2  3.4
+## [16]  3.7 24.1 21.5  0.7  5.6  3.5  2.0  6.6  4.1  3.5  1.5  0.8 16.3 16.5 13.7&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar=c(1,1,3,1)) # tighter figure margins
+plot(sp4, name=&amp;#39;name&amp;#39;, color=&amp;#39;Ca&amp;#39;,cex.names=0.5,cex.id=0.5, id.style=&amp;#39;top&amp;#39;,col.legend.cex=1,
+     col.label=&amp;#39;Ca&amp;#39;, family=&amp;quot;serif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-7-3.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sp4$name # &lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##  [1] &amp;quot;A&amp;quot;   &amp;quot;ABt&amp;quot; &amp;quot;Bt1&amp;quot; &amp;quot;Bt2&amp;quot; &amp;quot;A&amp;quot;   &amp;quot;Bt&amp;quot;  &amp;quot;A&amp;quot;   &amp;quot;Bt1&amp;quot; &amp;quot;Bt2&amp;quot; &amp;quot;A&amp;quot;   &amp;quot;Bt1&amp;quot; &amp;quot;Bt2&amp;quot;
+## [13] &amp;quot;Bt3&amp;quot; &amp;quot;A&amp;quot;   &amp;quot;Bt1&amp;quot; &amp;quot;Bt2&amp;quot; &amp;quot;A&amp;quot;   &amp;quot;Bt&amp;quot;  &amp;quot;A&amp;quot;   &amp;quot;Bt&amp;quot;  &amp;quot;A&amp;quot;   &amp;quot;Bt&amp;quot;  &amp;quot;A1&amp;quot;  &amp;quot;A2&amp;quot; 
+## [25] &amp;quot;AB&amp;quot;  &amp;quot;Bt1&amp;quot; &amp;quot;Bt2&amp;quot; &amp;quot;A&amp;quot;   &amp;quot;Bt1&amp;quot; &amp;quot;Bt2&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar=c(2,2,3,2)) # tighter figure margins
+plot(sp4, name=&amp;#39;name&amp;#39;, color=&amp;#39;name&amp;#39;, col.palette=RColorBrewer::brewer.pal(9, &amp;#39;Set1&amp;#39;), col.label=&amp;#39;Nomes dos Horizontes&amp;#39;, 
+     cex.names=0.5)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-7-4.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;###############
+### Boxplot ###
+# Aqui usaremos o conjunto sp1
+sp1$name1 &amp;lt;- aqp::generalize.hz(sp1$name, 
+                           new=c(&amp;#39;A&amp;#39;,&amp;#39;AB&amp;#39;, &amp;#39;BA&amp;#39;,&amp;#39;B&amp;#39;,&amp;#39;BC&amp;#39;, &amp;#39;C&amp;#39;, &amp;#39;E&amp;#39;, &amp;#39;AE&amp;#39;, &amp;#39;O&amp;#39;, &amp;#39;H&amp;#39;, &amp;#39;R&amp;#39;, &amp;#39;2C&amp;#39;, &amp;#39;3C&amp;#39;, &amp;#39;3B&amp;#39;, &amp;#39;3A&amp;#39;), 
+                           pat=c(&amp;#39;^A&amp;#39;,&amp;#39;^AB&amp;#39;,&amp;#39;^BA&amp;#39;,&amp;#39;^B&amp;#39;,&amp;#39;^BC&amp;#39;,&amp;#39;^C&amp;#39;, &amp;#39;^E&amp;#39;, &amp;#39;^AE&amp;#39;, &amp;#39;^O&amp;#39;, &amp;#39;^H&amp;#39;, &amp;#39;^R&amp;#39;, &amp;#39;^2C&amp;#39;, &amp;#39;^3C&amp;#39;,&amp;#39;^3B&amp;#39;, &amp;#39;^3A&amp;#39; ))
+
+# compute horizon mid-points 
+sp1$mid &amp;lt;- with(horizons(sp1), (top+ bottom)/2)
+# sort horizon designation by group-wise median values 
+hz.designation.by.median.depths &amp;lt;- names(sort(tapply(sp1$mid, sp1$name1, median)))
+# plot the distribution of horizon mid-points by designation 
+lattice::bwplot(mid ~ factor(name, levels=hz.designation.by.median.depths),
+       data=horizons(sp1),       
+       ylim=c(200, 0), ylab=&amp;#39;Profundidade do ponto médio do horizonte (cm)&amp;#39;,       
+       scales=list(y=list(tick.number=10)),       
+       panel= function ( ... ) {
+         panel.abline(h=seq(0, 180, by=10), v=1:length(hz.designation.by.median.depths), col=grey(0.8), lty=3)    
+         panel.bwplot( ... ) })&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-7-5.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;lattice::bwplot(prop~ factor(name1, levels=hz.designation.by.median.depths),
+       data=horizons(sp1),       
+       ylab=&amp;#39;Profundidade&amp;#39;,       
+       scales=list(y=list(tick.number=10)),       
+       panel= function ( ... ) {  
+         panel.abline(h=seq(0, 600, by=50), v=1:length(hz.designation.by.median.depths), col=grey(0.8), lty=3)  
+         panel.bwplot( ... ) })&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-7-6.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;parte-ii&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Parte II&lt;/h1&gt;
+&lt;div id=&#34;funções-de-fatiamento-slice&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Funções de fatiamento (slice)&lt;/h2&gt;
+&lt;p&gt;Coleções de perfis de solo podem ser fatiadas (ou reamostradas) em intervalos regulares de profundidade com a função &lt;code&gt;slice()&lt;/code&gt;. A estrutura de fatiamento e as variáveis de interesse são definidas por meio de notação de fórmula: seq ~ var.1 + var.2 + var.3 + … onde seq é uma sequência de números inteiros [por exemplo, 0:15 ou c (5,10,15,20) etc.] e var.1 + var.2 + var.3 + … são atributos no horizonte que se deseja fatiar. As variáveis contínuas e categóricas podem ser nomeadas no lado direito da fórmula. Os resultados retornados pela função &lt;code&gt;slice ()&lt;/code&gt; são &lt;strong&gt;SoilProfileCollection&lt;/strong&gt; ou &lt;strong&gt;data.frame&lt;/strong&gt; quando chamados com o argumento opcional &lt;em&gt;just.the.data = TRUE&lt;/em&gt;. Por exemplo, para dividir nosso conjunto de dados de amostra em intervalos de 1 cm, de 0 a 15 cm:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# fatiar dados
+sliced &amp;lt;- aqp::slice(sp4, fm= 0:50 ~ sand + silt + clay)
+# verificar o resultado
+class(sliced)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;SoilProfileCollection&amp;quot;
+## attr(,&amp;quot;package&amp;quot;)
+## [1] &amp;quot;aqp&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# fatiar de 0 até a profundidade máxima dos perfis da coleção
+sliced &amp;lt;- aqp::slice(sp4, fm= 0:max(sp4) ~ sand + silt + clay)
+# Extraia todos os dados na faixa de 5--10 cm:
+plot(sliced[, 5:10])&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Extraia todos os dados na faixa de 25 a 50 cm:
+plot(sliced[, 25:50])&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-8-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Extraia todos os dados na faixa de 0--5, 10--20 e 40--50 cm:
+plot(sliced[, c(0:5, 10:20, 40:50)])&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-8-3.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;agregando-coleções-de-perfis-de-solo-em-slabs-regulares&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Agregando coleções de perfis de solo em “slabs” regulares&lt;/h2&gt;
+&lt;p&gt;O resumo detalhado dos atributos no nível de horizonte é realizado com a função &lt;code&gt;slab()&lt;/code&gt;. Os critérios de agrupamento de perfis e a seleção de atributos do horizonte são parametrizados por meio da fórmula: grupos ~ var1 + var2 + var3 onde variáveis nomeadas são agregadas em grupos ou onde variáveis nomeadas são agregadas em toda a coleção com fórmula: coleção ~ var1 + var2 + var3. A função de resumo padrão &lt;em&gt;(slab.fun)&lt;/em&gt; calcula os percentis 5, 25, 50, 75 e 95 através do estimador de quantil Harrell-Davis.&lt;/p&gt;
+&lt;p&gt;A estrutura de profundidade (“slabs”) sobre a qual os resumos são calculados é definida com o argumento &lt;code&gt;slab.structure&lt;/code&gt; usando:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Um único número inteiro (por exemplo, 10): os dados são agregados em uma sequência regular de &lt;em&gt;slabs&lt;/em&gt; de 10 unidades de espessura.&lt;/li&gt;
+&lt;li&gt;Um vetor de 2 números inteiros [por exemplo, c (50, 60)]: os dados são agregados em profundidades que variam de 50 a 60 unidades.&lt;/li&gt;
+&lt;li&gt;Um vetor de 3 ou mais números inteiros [por exemplo, c (0, 5, 10, 50, 100)]: os dados são agregados nas profundidades que variam de 0 a 5, 5 a 10, 10 a 50, 50 a 100 unidades. Essa é por exemplo umas das formas usadas para harmonização de dados em profundidades pré-definidas como é o caso do projeto &lt;strong&gt;GlobalSoilMap project&lt;/strong&gt; &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Arrouays2017&#34; role=&#34;doc-biblioref&#34;&gt;Arrouays et al., 2017&lt;/a&gt;)&lt;/span&gt; que é de 0-5, 5-15, 15-30, 30-60, 60-100, 100-200 cm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Agregar coleções de perfis de solo em “slabs” (conjuntos) regulares
+# calculando o valor médio ignorando os dados ausentes
+aqp::slab(sp4, fm= ~ sand + silt + clay, slab.structure=c(0,10), slab.fun=mean, na.rm=TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   variable all.profiles value top bottom contributing_fraction
+## 1     sand            1 47.63   0     10                     1
+## 2     silt            1 31.15   0     10                     1
+## 3     clay            1 21.11   0     10                     1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Novamente, desta vez em grupos definidos por um atributo no nível do site:
+aqp::slab(sp4, fm= group ~ sand + silt + clay, slab.structure=c(0,10), slab.fun=mean, na.rm=TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##   variable group value top bottom contributing_fraction
+## 1     sand     A 48.26   0     10                     1
+## 2     silt     A 31.52   0     10                     1
+## 3     clay     A 20.30   0     10                     1
+## 4     sand     B 47.00   0     10                     1
+## 5     silt     B 30.78   0     10                     1
+## 6     clay     B 21.92   0     10                     1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Novamente, desta vez em várias faixas de profundidade
+aqp::slab(sp4, fm= ~ sand + silt + clay, slab.structure=c(0,5,15,30,60), slab.fun=mean, na.rm=TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##    variable all.profiles    value top bottom contributing_fraction
+## 1      sand            1 48.54000   0      5             1.0000000
+## 2      sand            1 45.96000   5     15             1.0000000
+## 3      sand            1 39.29310  15     30             0.7733333
+## 4      sand            1 30.36923  30     60             0.3421053
+## 5      silt            1 32.40000   0      5             1.0000000
+## 6      silt            1 29.15000   5     15             1.0000000
+## 7      silt            1 30.37069  15     30             0.7733333
+## 8      silt            1 31.00000  30     60             0.3421053
+## 9      clay            1 19.00000   0      5             1.0000000
+## 10     clay            1 24.79000   5     15             1.0000000
+## 11     clay            1 30.20690  15     30             0.7733333
+## 12     clay            1 38.38462  30     60             0.3421053&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Novamente, desta vez em fatias de 1 cm, calculando quantis
+agg &amp;lt;- aqp::slab(sp4, fm= ~ sand + silt + clay)
+
+# Agregando coleções de perfis de solo ao longo de períodos regulares “Slabs”
+lattice::xyplot(top ~ p.q50 | variable, data=agg, ylab=&amp;#39;Profundidade (cm)&amp;#39;,
+       xlab=&amp;#39;Mediana delimitada pelos percentis 25 e 75&amp;#39;,
+       lower=agg$p.q25, upper=agg$p.q75, ylim=c(50,-2),
+       panel=panel.depth_function,
+       alpha=0.25, sync.colors=TRUE,
+       par.settings=list(superpose.line=list(col=&amp;#39;RoyalBlue&amp;#39;, lwd=2)),
+       prepanel=prepanel.depth_function,
+       cf=agg$contributing_fraction, cf.col=&amp;#39;black&amp;#39;, cf.interval=5, 
+       layout=c(3,1), strip=strip.custom(bg=grey(0.8)),
+       scales=list(x=list(tick.number=4, alternating=3, relation=&amp;#39;free&amp;#39;))
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-9-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;análise-de-dissimilaridade-dendrogramas&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Análise de Dissimilaridade (Dendrogramas)&lt;/h2&gt;
+&lt;p&gt;Os dendrogramas são uma maneira conveniente de descrever a dissimilaridade entre pares (&lt;em&gt;pair-wise&lt;/em&gt;), comumente associada ao tópico da análise de cluster.
+O cálculo da dissimilaridade entre perfis é realizado usando a função &lt;code&gt;profile_compare()&lt;/code&gt;. Os valores de dissimilaridade dependem da seleção de atributos [por exemplo, argila, CEC, pH etc.], parâmetro opcional de ponderação em profundidade &lt;code&gt;(k)&lt;/code&gt; e uma profundidade máxima de avaliação &lt;code&gt;(max_d)&lt;/code&gt;. Maiores informações dobre análise de dissimilaridade pode ser encontrado em &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Beaudette2013&#34; role=&#34;doc-biblioref&#34;&gt;Beaudette et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Beaudette2013&#34; role=&#34;doc-biblioref&#34;&gt;2013&lt;/a&gt;)&lt;/span&gt; e com exemplos de aplicação em &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Pinheiro2016&#34; role=&#34;doc-biblioref&#34;&gt;Pinheiro et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Pinheiro2016&#34; role=&#34;doc-biblioref&#34;&gt;2016&lt;/a&gt;)&lt;/span&gt; e &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Pinheiro2018&#34; role=&#34;doc-biblioref&#34;&gt;Pinheiro et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Pinheiro2018&#34; role=&#34;doc-biblioref&#34;&gt;2018&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Dissimilaridade usando o conjunto sp4
+# usando Ex-Ca:Mg e CTC a pH 7
+# sem ponderação de profundidade (k = 0)
+# até uma profundidade máxima de 50 cm
+d &amp;lt;- aqp::profile_compare(sp4, vars=c(&amp;#39;ex_Ca_to_Mg&amp;#39;, &amp;#39;CEC_7&amp;#39;), k=0, max_d=50)
+
+# Verificar matriz de distância
+round(d, 1)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Dissimilarities :
+##                colusa glenn kings mariposa mendocino napa san benito shasta
+## glenn            15.8                                                      
+## kings            18.0  13.1                                                
+## mariposa         17.4  20.6  25.5                                          
+## mendocino        14.1   8.2  17.0     24.5                                 
+## napa             33.5  24.9  30.5     39.3      22.2                       
+## san benito       28.8  21.4  27.4     38.3      16.4 18.0                  
+## shasta           19.2  13.6   8.7     26.6      17.6 34.8       23.3       
+## shasta-trinity    8.4  16.9  22.3     18.6      17.0 30.9       28.3   23.3
+## tehama           32.1  23.9  29.2     37.6      20.8  9.0       15.3   32.7
+##                shasta-trinity
+## glenn                        
+## kings                        
+## mariposa                     
+## mendocino                    
+## napa                         
+## san benito                   
+## shasta                       
+## shasta-trinity               
+## tehama                   29.2
+## 
+## Metric :  mixed ;  Types = I, I 
+## Number of objects : 10&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Análise hierárquica de cluster em um conjunto de dissimilaridades (Hierarchical Clustering)
+h &amp;lt;- stats::hclust(d)
+# Melhor ajuste de margens
+par(mar=c(4,3,2,3))
+
+##Plotando dendrograma
+plot(as.dendrogram(h))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#stats::rect.hclust(h,5)
+
+################
+# Fazendo de outra forma com função diana (DIvisive ANAlysis Clustering)
+# vizualize a matriz de dissimilaridade via cluster hierárquico divisivo
+d.diana &amp;lt;- cluster::diana(d)
+
+## Plotando Dendograma
+# esta função é do pacote sharpshootR
+# requer alguns ajustes manuais
+par(mar=c(1,1,5,1))
+sharpshootR::plotProfileDendrogram(sp4, d.diana, scaling.factor = 0.8, y.offset = 5, width=0.25, color=&amp;#39;ex_Ca_to_Mg&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-10-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# solos de interesse do levatamento Americano
+s.list &amp;lt;- c(&amp;#39;hornitos&amp;#39;, &amp;#39;perkins&amp;#39;, &amp;#39;argonaut&amp;#39;, &amp;#39;inks&amp;#39;, &amp;#39;mokelumne&amp;#39;,
+            &amp;#39;dunstone&amp;#39;, &amp;#39;auburn&amp;#39;, &amp;#39;pentz&amp;#39;, &amp;#39;pardee&amp;#39;, &amp;#39;peters&amp;#39;, 
+            &amp;#39;amador&amp;#39;, &amp;#39;laniger&amp;#39;)
+
+# Buscar e converter dados em um SoilProfileCollection
+s &amp;lt;- soilDB::fetchOSD(s.list)
+# Estimando a profundidade do solo com base na designação do horizontes
+s$soil.depth &amp;lt;- profileApply(s, FUN = max)
+
+# plot profiles, order by soil depth
+par(mar=c(0, 0, 0, 0))
+plot(s, name=&amp;#39;hzname&amp;#39;, plot.order=order(s$soil.depth), cex.names=0.85, axis.line.offset=-5, width=0.25, id.style=&amp;#39;top&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-10-3.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;d &amp;lt;- SoilTaxonomyDendrogram(s, cex.taxon.labels=0.8, width=0.25, y.offset = 0.4)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-10-4.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;parte-iii&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Parte III&lt;/h1&gt;
+&lt;p&gt;Nessa parte é usado outra base de dados do &lt;code&gt;soilDB&lt;/code&gt;, são eles o conjunto &lt;code&gt;loafercreek&lt;/code&gt; e o conjunto &lt;code&gt;mineralKing&lt;/code&gt;, e aqui além de plots que marcam os horizontes diagnósticos de alguns perfis são feitos alguns plots que relacionam o perfil e a paisagem. Maiores comentários estão na linha de código&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Carregando onconjunto de dados de solos loafercreek
+data(&amp;quot;loafercreek&amp;quot;)
+# selecionar os 10 primeiros perfis
+x &amp;lt;- loafercreek[1:10, ]
+
+#reconfigurando as margens porque o default é muito largo
+par(mar=c(1,1,2,1))
+
+# Alguns plots
+plot(x)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-11-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot(x, label=&amp;#39;pedon_id&amp;#39;, id.style=&amp;#39;side&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-11-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;str(x)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Formal class &amp;#39;SoilProfileCollection&amp;#39; [package &amp;quot;aqp&amp;quot;] with 9 slots
+##   ..@ idcol       : chr &amp;quot;peiid&amp;quot;
+##   ..@ hzidcol     : chr &amp;quot;phiid&amp;quot;
+##   ..@ depthcols   : chr [1:2] &amp;quot;hzdept&amp;quot; &amp;quot;hzdepb&amp;quot;
+##   ..@ metadata    :List of 8
+##   .. ..$ aqp_df_class    : chr &amp;quot;data.frame&amp;quot;
+##   .. ..$ aqp_group_by    : chr &amp;quot;&amp;quot;
+##   .. ..$ aqp_hzdesgn     : chr &amp;quot;&amp;quot;
+##   .. ..$ aqp_hztexcl     : chr &amp;quot;&amp;quot;
+##   .. ..$ depth_units     : chr &amp;quot;cm&amp;quot;
+##   .. ..$ stringsAsFactors: logi FALSE
+##   .. ..$ original.order  : int [1:56] 1 2 3 4 5 6 7 8 9 10 ...
+##   .. ..$ origin          : chr &amp;quot;NASIS pedons&amp;quot;
+##   ..@ horizons    :&amp;#39;data.frame&amp;#39;: 56 obs. of  73 variables:
+##   .. ..$ phiid               : chr [1:56] &amp;quot;579662&amp;quot; &amp;quot;579661&amp;quot; &amp;quot;579660&amp;quot; &amp;quot;579659&amp;quot; ...
+##   .. ..$ peiid               : chr [1:56] &amp;quot;115595&amp;quot; &amp;quot;115595&amp;quot; &amp;quot;115595&amp;quot; &amp;quot;115595&amp;quot; ...
+##   .. ..$ hzname              : chr [1:56] &amp;quot;A&amp;quot; &amp;quot;BA&amp;quot; &amp;quot;BAt&amp;quot; &amp;quot;Bt1&amp;quot; ...
+##   .. ..$ genhz               : chr [1:56] NA NA NA NA ...
+##   .. ..$ hzdept              : int [1:56] 0 5 10 28 51 74 0 5 10 28 ...
+##   .. ..$ hzdepb              : num [1:56] 5 10 28 51 74 81 5 10 28 51 ...
+##   .. ..$ bounddistinct       : chr [1:56] &amp;quot;abrupt&amp;quot; &amp;quot;clear&amp;quot; &amp;quot;clear&amp;quot; &amp;quot;clear&amp;quot; ...
+##   .. ..$ boundtopo           : chr [1:56] &amp;quot;smooth&amp;quot; &amp;quot;wavy&amp;quot; &amp;quot;smooth&amp;quot; &amp;quot;smooth&amp;quot; ...
+##   .. ..$ clay                : num [1:56] 15 20 25 29 35 NA 15 20 25 29 ...
+##   .. ..$ silt                : num [1:56] NA NA NA NA NA NA NA NA NA NA ...
+##   .. ..$ sand                : num [1:56] NA NA NA NA NA NA NA NA NA NA ...
+##   .. ..$ fragvoltot          : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ texture             : chr [1:56] &amp;quot;L&amp;quot; &amp;quot;L&amp;quot; &amp;quot;L&amp;quot; &amp;quot;CL&amp;quot; ...
+##   .. ..$ texcl               : chr [1:56] &amp;quot;l&amp;quot; &amp;quot;l&amp;quot; &amp;quot;l&amp;quot; &amp;quot;cl&amp;quot; ...
+##   .. ..$ lieutex             : chr [1:56] NA NA NA NA ...
+##   .. ..$ phfield             : num [1:56] 5.5 4.9 5.5 6 6 ...
+##   .. ..$ effclass            : chr [1:56] &amp;quot;none&amp;quot; &amp;quot;none&amp;quot; &amp;quot;none&amp;quot; &amp;quot;none&amp;quot; ...
+##   .. ..$ labsampnum          : chr [1:56] &amp;quot;01P1566&amp;quot; &amp;quot;01P1567&amp;quot; &amp;quot;01P1568&amp;quot; &amp;quot;01P1569&amp;quot; ...
+##   .. ..$ rupresblkdry        : chr [1:56] &amp;quot;moderately hard&amp;quot; &amp;quot;moderately hard&amp;quot; &amp;quot;slightly hard&amp;quot; &amp;quot;moderately hard&amp;quot; ...
+##   .. ..$ rupresblkmst        : chr [1:56] &amp;quot;very friable&amp;quot; &amp;quot;very friable&amp;quot; &amp;quot;very friable&amp;quot; &amp;quot;very friable&amp;quot; ...
+##   .. ..$ rupresblkcem        : chr [1:56] NA NA NA NA ...
+##   .. ..$ stickiness          : chr [1:56] &amp;quot;nonsticky&amp;quot; &amp;quot;nonsticky&amp;quot; &amp;quot;slightly sticky&amp;quot; &amp;quot;slightly sticky&amp;quot; ...
+##   .. ..$ plasticity          : chr [1:56] &amp;quot;slightly plastic&amp;quot; &amp;quot;slightly plastic&amp;quot; &amp;quot;slightly plastic&amp;quot; &amp;quot;moderately plastic&amp;quot; ...
+##   .. ..$ ksatpedon           : num [1:56] NA NA NA NA NA NA NA NA NA NA ...
+##   .. ..$ texture_class       : chr [1:56] &amp;quot;l&amp;quot; &amp;quot;l&amp;quot; &amp;quot;l&amp;quot; &amp;quot;cl&amp;quot; ...
+##   .. ..$ d_r                 : num [1:56] 0.58 0.616 0.637 0.637 0.637 ...
+##   .. ..$ d_g                 : num [1:56] 0.462 0.452 0.441 0.441 0.441 ...
+##   .. ..$ d_b                 : num [1:56] 0.313 0.218 0.248 0.248 0.248 ...
+##   .. ..$ d_hue               : chr [1:56] &amp;quot;10YR&amp;quot; &amp;quot;10YR&amp;quot; &amp;quot;7.5YR&amp;quot; &amp;quot;7.5YR&amp;quot; ...
+##   .. ..$ d_value             : num [1:56] 5 5 5 5 5 NA 6 6 5 5 ...
+##   .. ..$ d_chroma            : num [1:56] 4 6 6 6 6 NA 6 6 6 6 ...
+##   .. ..$ d_sigma             : num [1:56] NA NA NA NA NA NA NA NA NA NA ...
+##   .. ..$ m_r                 : num [1:56] 0.471 0.383 0.541 0.541 0.541 ...
+##   .. ..$ m_g                 : num [1:56] 0.359 0.257 0.331 0.331 0.331 ...
+##   .. ..$ m_b                 : num [1:56] 0.268 0.151 0.185 0.185 0.185 ...
+##   .. ..$ m_hue               : chr [1:56] &amp;quot;7.5YR&amp;quot; &amp;quot;7.5YR&amp;quot; &amp;quot;5YR&amp;quot; &amp;quot;5YR&amp;quot; ...
+##   .. ..$ m_value             : num [1:56] 4 3 4 4 4 NA 5 5 4 4 ...
+##   .. ..$ m_chroma            : num [1:56] 3 4 6 6 6 NA 6 6 6 6 ...
+##   .. ..$ m_sigma             : num [1:56] NA NA NA NA NA NA NA NA NA NA ...
+##   .. ..$ moist_soil_color    : chr [1:56] &amp;quot;#785C44&amp;quot; &amp;quot;#624126&amp;quot; &amp;quot;#8A542F&amp;quot; &amp;quot;#8A542F&amp;quot; ...
+##   .. ..$ dry_soil_color      : chr [1:56] &amp;quot;#947650&amp;quot; &amp;quot;#9D7338&amp;quot; &amp;quot;#A3703F&amp;quot; &amp;quot;#A3703F&amp;quot; ...
+##   .. ..$ fine_gravel         : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ gravel              : num [1:56] 0 5 5 5 0 0 0 5 5 5 ...
+##   .. ..$ cobbles             : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ stones              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ boulders            : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ channers            : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ flagstones          : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ parafine_gravel     : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ paragravel          : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ paracobbles         : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ parastones          : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ paraboulders        : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ parachanners        : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ paraflagstones      : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ unspecified         : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ total_frags_pct_nopf: num [1:56] 0 5 5 5 0 0 0 5 5 5 ...
+##   .. ..$ total_frags_pct     : num [1:56] 0 5 5 5 0 0 0 5 5 5 ...
+##   .. ..$ art_fgr             : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_gr              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_cb              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_st              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_by              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_ch              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_fl              : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ art_unspecified     : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ total_art_pct       : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ huartvol_cohesive   : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ huartvol_penetrable : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ huartvol_innocuous  : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ huartvol_persistent : num [1:56] 0 0 0 0 0 0 0 0 0 0 ...
+##   .. ..$ soil_color          : chr [1:56] &amp;quot;#785C44&amp;quot; &amp;quot;#624126&amp;quot; &amp;quot;#8A542F&amp;quot; &amp;quot;#8A542F&amp;quot; ...
+##   .. ..$ hzID                : chr [1:56] &amp;quot;652&amp;quot; &amp;quot;653&amp;quot; &amp;quot;654&amp;quot; &amp;quot;655&amp;quot; ...
+##   ..@ site        :&amp;#39;data.frame&amp;#39;: 10 obs. of  114 variables:
+##   .. ..$ peiid                                   : chr [1:10] &amp;quot;115595&amp;quot; &amp;quot;115819&amp;quot; &amp;quot;115827&amp;quot; &amp;quot;1193371&amp;quot; ...
+##   .. ..$ siteiid                                 : int [1:10] 114622 159118 159056 1231724 254459 209260 269617 307647 308029 308033
+##   .. ..$ pedon_id                                : chr [1:10] &amp;quot;300J&amp;quot; &amp;quot;S2000CA007009&amp;quot; &amp;quot;S2000CA007012&amp;quot; &amp;quot;2017CA6306054N&amp;quot; ...
+##   .. ..$ site_id                                 : chr [1:10] &amp;quot;300J&amp;quot; &amp;quot;300J&amp;quot; &amp;quot;716Q&amp;quot; &amp;quot;2017CA6306054N&amp;quot; ...
+##   .. ..$ obs_date                                : POSIXct[1:10], format: &amp;quot;1999-06-21 04:00:00&amp;quot; &amp;quot;1999-06-21 04:00:00&amp;quot; ...
+##   .. ..$ utmzone                                 : int [1:10] 10 10 10 NA 10 10 10 10 10 10
+##   .. ..$ utmeasting                              : num [1:10] 634515 634515 633987 NA 729321 ...
+##   .. ..$ utmnorthing                             : num [1:10] 4367113 4367113 4375530 NA 4204365 ...
+##   .. ..$ x                                       : num [1:10] -121 -121 -121 NA -120 ...
+##   .. ..$ y                                       : num [1:10] 39.4 39.4 39.5 NA 38 ...
+##   .. ..$ horizdatnm                              : chr [1:10] &amp;quot;NAD83&amp;quot; &amp;quot;NAD83&amp;quot; &amp;quot;NAD83&amp;quot; NA ...
+##   .. ..$ x_std                                   : num [1:10] -121 -121 -121 -120 -120 ...
+##   .. ..$ y_std                                   : num [1:10] 39.4 39.4 39.5 37.9 38 ...
+##   .. ..$ gpspositionalerror                      : num [1:10] NA NA NA NA NA NA NA NA NA NA
+##   .. ..$ describer                               : chr [1:10] &amp;quot;Felix J. Panlasigui Jr.&amp;quot; &amp;quot;Felix Panlasigui&amp;quot; &amp;quot;DWB&amp;quot; &amp;quot;Andrew Brown&amp;quot; ...
+##   .. ..$ pedonpurpose                            : chr [1:10] &amp;quot;full pedon description&amp;quot; &amp;quot;full pedon description&amp;quot; &amp;quot;full pedon description&amp;quot; NA ...
+##   .. ..$ pedontype                               : chr [1:10] &amp;quot;representative pedon for component&amp;quot; &amp;quot;representative pedon for component&amp;quot; &amp;quot;OSD pedon&amp;quot; NA ...
+##   .. ..$ pedlabsampnum                           : chr [1:10] &amp;quot;01N0263&amp;quot; &amp;quot;01N0263&amp;quot; &amp;quot;01N0266&amp;quot; NA ...
+##   .. ..$ labdatadescflag                         : int [1:10] 0 0 0 0 1 0 0 0 0 0
+##   .. ..$ tsectstopnum                            : int [1:10] NA NA NA NA NA 1 NA NA NA NA
+##   .. ..$ tsectinterval                           : num [1:10] NA NA NA NA NA 30 NA NA NA NA
+##   .. ..$ utransectid                             : logi [1:10] NA NA NA NA NA NA ...
+##   .. ..$ tsectkind                               : chr [1:10] NA NA NA NA ...
+##   .. ..$ tsectselmeth                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ elev_field                              : num [1:10] 201 201 365 422 536 408 328 150 280 320
+##   .. ..$ slope_field                             : num [1:10] 8 8 18 NA 45 25 9 NA 5 3
+##   .. ..$ aspect_field                            : int [1:10] 152 152 290 NA 120 145 344 NA 90 238
+##   .. ..$ plantassocnm                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ earthcovkind1                           : chr [1:10] NA NA NA NA ...
+##   .. ..$ earthcovkind2                           : chr [1:10] NA NA NA NA ...
+##   .. ..$ erocl                                   : chr [1:10] NA NA NA NA ...
+##   .. ..$ bedrckdepth                             : int [1:10] 74 74 107 80 99 73 64 NA NA NA
+##   .. ..$ bedrckkind                              : chr [1:10] &amp;quot;metavolcanics&amp;quot; &amp;quot;metavolcanics&amp;quot; &amp;quot;metavolcanics&amp;quot; &amp;quot;greenstone&amp;quot; ...
+##   .. ..$ bedrckhardness                          : chr [1:10] NA NA NA &amp;quot;moderately&amp;quot; ...
+##   .. ..$ hillslopeprof                           : chr [1:10] NA NA NA NA ...
+##   .. ..$ geomslopeseg                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ shapeacross                             : Factor w/ 5 levels &amp;quot;concave&amp;quot;,&amp;quot;linear&amp;quot;,..: 1 1 NA NA 1 2 1 NA 2 NA
+##   .. ..$ shapedown                               : Factor w/ 5 levels &amp;quot;concave&amp;quot;,&amp;quot;linear&amp;quot;,..: NA NA NA NA 2 2 3 NA 3 NA
+##   .. ..$ slopecomplex                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ drainagecl                              : chr [1:10] NA NA &amp;quot;well&amp;quot; NA ...
+##   .. ..$ flodfreqcl                              : chr [1:10] NA NA NA NA ...
+##   .. ..$ floddurcl                               : chr [1:10] NA NA NA NA ...
+##   .. ..$ flodmonthbeg                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ pondfreqcl                              : chr [1:10] NA NA NA NA ...
+##   .. ..$ ponddurcl                               : chr [1:10] NA NA NA NA ...
+##   .. ..$ pondmonthbeg                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ geomposhill                             : chr [1:10] NA NA NA &amp;quot;side slope&amp;quot; ...
+##   .. ..$ geomposmntn                             : chr [1:10] NA NA NA NA ...
+##   .. ..$ geomposflats                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ swaterdepth                             : int [1:10] NA NA NA NA NA NA NA NA NA NA
+##   .. ..$ slope_shape                             : Factor w/ 9 levels &amp;quot;concave / convex&amp;quot;,..: NA NA NA NA 2 5 1 NA 4 NA
+##   .. ..$ classdate                               : POSIXct[1:10], format: &amp;quot;2012-07-24 04:02:22&amp;quot; &amp;quot;2011-07-03 09:18:06&amp;quot; ...
+##   .. ..$ classifier                              : chr [1:10] NA NA NA &amp;quot;Andrew Brown&amp;quot; ...
+##   .. ..$ classtype                               : chr [1:10] &amp;quot;correlated&amp;quot; &amp;quot;correlated&amp;quot; &amp;quot;correlated&amp;quot; &amp;quot;field&amp;quot; ...
+##   .. ..$ taxonname                               : chr [1:10] &amp;quot;LOAFERCREEK&amp;quot; &amp;quot;LOAFERCREEK&amp;quot; &amp;quot;Loafercreek&amp;quot; &amp;quot;Loafercreek&amp;quot; ...
+##   .. ..$ localphase                              : chr [1:10] NA NA NA NA ...
+##   .. ..$ taxonkind                               : chr [1:10] &amp;quot;series&amp;quot; &amp;quot;series&amp;quot; &amp;quot;series&amp;quot; &amp;quot;series&amp;quot; ...
+##   .. ..$ seriesstatus                            : chr [1:10] NA NA NA NA ...
+##   .. ..$ taxpartsize                             : chr [1:10] &amp;quot;fine-loamy&amp;quot; &amp;quot;fine-loamy&amp;quot; &amp;quot;fine-loamy&amp;quot; NA ...
+##   .. ..$ taxorder                                : chr [1:10] &amp;quot;alfisols&amp;quot; &amp;quot;alfisols&amp;quot; &amp;quot;alfisols&amp;quot; NA ...
+##   .. ..$ taxsuborder                             : chr [1:10] &amp;quot;xeralfs&amp;quot; &amp;quot;xeralfs&amp;quot; &amp;quot;xeralfs&amp;quot; NA ...
+##   .. ..$ taxgrtgroup                             : chr [1:10] &amp;quot;haploxeralfs&amp;quot; &amp;quot;haploxeralfs&amp;quot; &amp;quot;haploxeralfs&amp;quot; NA ...
+##   .. ..$ taxsubgrp                               : chr [1:10] &amp;quot;ultic haploxeralfs&amp;quot; &amp;quot;typic haploxeralfs&amp;quot; &amp;quot;ultic haploxeralfs&amp;quot; NA ...
+##   .. ..$ soiltaxedition                          : chr [1:10] &amp;quot;eighth edition&amp;quot; &amp;quot;eighth edition&amp;quot; &amp;quot;ninth edition&amp;quot; NA ...
+##   .. ..$ osdtypelocflag                          : int [1:10] 0 0 0 0 0 0 0 0 0 0
+##   .. ..$ taxmoistcl                              : chr [1:10] &amp;quot;xeric&amp;quot; &amp;quot;xeric&amp;quot; &amp;quot;xeric&amp;quot; NA ...
+##   .. ..$ taxtempregime                           : chr [1:10] &amp;quot;thermic&amp;quot; &amp;quot;thermic&amp;quot; &amp;quot;thermic&amp;quot; NA ...
+##   .. ..$ taxfamother                             : chr [1:10] NA NA &amp;quot;not used&amp;quot; NA ...
+##   .. ..$ psctopdepth                             : int [1:10] 10 10 15 NA 25 13 23 NA 30 28
+##   .. ..$ pscbotdepth                             : int [1:10] 61 61 65 NA 99 63 64 NA 58 61
+##   .. ..$ selection_method                        : chr [1:10] &amp;quot;most recent&amp;quot; &amp;quot;most recent&amp;quot; &amp;quot;most recent&amp;quot; &amp;quot;single record&amp;quot; ...
+##   .. ..$ ecositeid                               : chr [1:10] NA NA NA NA ...
+##   .. ..$ ecositenm                               : chr [1:10] NA NA NA NA ...
+##   .. ..$ ecositecorrdate                         : POSIXct[1:10], format: NA NA ...
+##   .. ..$ es_classifier                           : chr [1:10] NA NA NA NA ...
+##   .. ..$ es_selection_method                     : chr [1:10] NA NA NA NA ...
+##   .. ..$ ochric.epipedon                         : logi [1:10] TRUE TRUE TRUE NA TRUE TRUE ...
+##   .. ..$ argillic.horizon                        : logi [1:10] TRUE TRUE TRUE NA FALSE TRUE ...
+##   .. ..$ paralithic.contact                      : logi [1:10] TRUE TRUE TRUE NA TRUE TRUE ...
+##   .. ..$ lithic.contact                          : logi [1:10] FALSE FALSE TRUE NA FALSE FALSE ...
+##   .. ..$ umbric.epipedon                         : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ cambic.horizon                          : logi [1:10] FALSE FALSE FALSE NA TRUE FALSE ...
+##   .. ..$ mollic.epipedon                         : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ paralithic.materials                    : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ lithologic.discontinuity                : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ andic.soil.properties                   : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ densic.contact                          : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ abrupt.textural.change                  : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ aquic.conditions                        : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ duripan                                 : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ slickensides                            : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ redox.depletions.with.chroma.2.or.less  : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ redox.concentrations                    : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ reduced.matrix                          : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ densic.materials                        : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ volcanic.glass                          : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ folistic.epipedon                       : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ albic.materials                         : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. ..$ human.transported.material              : logi [1:10] FALSE FALSE FALSE NA FALSE FALSE ...
+##   .. .. [list output truncated]
+##   ..@ sp          :Formal class &amp;#39;SpatialPoints&amp;#39; [package &amp;quot;sp&amp;quot;] with 3 slots
+##   .. .. ..@ coords     : num [1, 1] 0
+##   .. .. ..@ bbox       : logi [1, 1] NA
+##   .. .. ..@ proj4string:Formal class &amp;#39;CRS&amp;#39; [package &amp;quot;sp&amp;quot;] with 1 slot
+##   .. .. .. .. ..@ projargs: chr NA
+##   ..@ diagnostic  :&amp;#39;data.frame&amp;#39;: 26 obs. of  4 variables:
+##   .. ..$ peiid   : int [1:26] 115595 115595 115595 115819 115819 115819 115827 115827 115827 115827 ...
+##   .. ..$ featkind: chr [1:26] &amp;quot;ochric epipedon&amp;quot; &amp;quot;argillic horizon&amp;quot; &amp;quot;paralithic contact&amp;quot; &amp;quot;ochric epipedon&amp;quot; ...
+##   .. ..$ featdept: int [1:26] 0 10 74 0 10 74 1 15 79 107 ...
+##   .. ..$ featdepb: int [1:26] 10 74 81 10 74 81 5 79 107 NA ...
+##   ..@ restrictions:&amp;#39;data.frame&amp;#39;: 9 obs. of  8 variables:
+##   .. ..$ peiid   : int [1:9] 115595 115819 115827 115827 207242 207255 268820 307957 307961
+##   .. ..$ resdept : int [1:9] 74 74 79 107 99 73 64 58 61
+##   .. ..$ resdepb : int [1:9] 81 81 107 NA 203 97 NA 83 86
+##   .. ..$ resthk_l: int [1:9] NA NA NA NA NA NA NA NA NA
+##   .. ..$ resthk_r: int [1:9] 7 7 NA NA 104 24 NA 25 25
+##   .. ..$ resthk_h: int [1:9] NA NA NA NA NA NA NA NA NA
+##   .. ..$ reskind : chr [1:9] &amp;quot;bedrock, paralithic&amp;quot; &amp;quot;bedrock, paralithic&amp;quot; &amp;quot;bedrock, paralithic&amp;quot; &amp;quot;bedrock, lithic&amp;quot; ...
+##   .. ..$ reshard : chr [1:9] NA NA &amp;quot;strongly&amp;quot; NA ...&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Agrupar perfis pela posição na paisagem
+#groupedProfilePlot(x, groups=&amp;#39;hillslopeprof&amp;#39;, label=&amp;#39;pedon_id&amp;#39;, id.style=&amp;#39;side&amp;#39;)
+
+# Carregando onconjunto de dados de solos mineralKing
+data(&amp;quot;mineralKing&amp;quot;)
+par(mar=c(1,1,2,1))
+groupedProfilePlot(mineralKing, groups=&amp;#39;taxonname&amp;#39;, print.id=FALSE)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-11-3.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# plot de distância ao longo de um transecto
+coordinates(mineralKing) &amp;lt;- ~ x_std + y_std
+# defina o sistema de coordenada de referência (CRS)
+proj4string(mineralKing) &amp;lt;- &amp;#39;+proj=longlat +datum=NAD83&amp;#39;
+crs.utm &amp;lt;- CRS(&amp;#39;+proj=utm +zone=11 +datum=NAD83&amp;#39;) #reprojetando para utm metros
+par(mar=c(4.5,4,1,1))
+
+# plot Padrão
+plotTransect(mineralKing, grad.var.name = &amp;#39;elev_field&amp;#39;, crs = crs.utm)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-11-4.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# plot com alteração de tamanho e tipo de fonte e nome dos eixos
+plotTransect(mineralKing, grad.var.name=&amp;#39;elev_field&amp;#39;, crs=crs.utm, grad.axis.title=&amp;#39;Elevação (m)&amp;#39;, 
+             distance.axis.title=&amp;#39;Distância ao longo do transecto (km)&amp;#39;,
+             label=&amp;#39;pedon_id&amp;#39;, scaling.factor = 0.5,
+             cex.names=0.8,cex.id=0.8,col.legend.cex=1.5,family=&amp;quot;serif&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/tools/index_files/figure-html/unnamed-chunk-11-5.png&#34; width=&#34;672&#34; /&gt;
+### Se você chegou até aqui muito bem !!!! 👏👏👏&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;referências&#34; class=&#34;section level1 unnumbered&#34;&gt;
+&lt;h1&gt;Referências&lt;/h1&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body hanging-indent&#34;&gt;
+&lt;div id=&#34;ref-Arrouays2017&#34; class=&#34;csl-entry&#34;&gt;
+Arrouays, D., Leenaars, J.G.B., Richer-de-Forges, A.C., Adhikari, K., Ballabio, C., Greve, M., Grundy, M., Guerrero, E., Hempel, J., Hengl, T., Heuvelink, G., Batjes, N., Carvalho, E., Hartemink, A., Hewitt, A., Hong, S.Y., Krasilnikov, P., Lagacherie, P., Lelyk, G., Libohova, Z., Lilly, A., McBratney, A., McKenzie, N., Vasquez, G.M., Mulder, V.L., Minasny, B., Montanarella, L., Odeh, I., Padarian, J., Poggio, L., Roudier, P., Saby, N., Savin, I., Searle, R., Solbovoy, V., Thompson, J., Smith, S., Sulaeman, Y., Vintila, R., Rossel, R.V., Wilson, P., Zhang, G.L., Swerts, M., Oorts, K., Karklins, A., Feng, L., Ibelles Navarro, A.R., Levin, A., Laktionova, T., Dell’Acqua, M., Suvannang, N., Ruam, W., Prasad, J., Patil, N., Husnjak, S., Pásztor, L., Okx, J., Hallet, S., Keay, C., Farewell, T., Lilja, H., Juilleret, J., Marx, S., Takata, Y., Kazuyuki, Y., Mansuy, N., Panagos, P., Van Liedekerke, M., Skalsky, R., Sobocka, J., Kobza, J., Eftekhari, K., Alavipanah, S.K., Moussadek, R., Badraoui, M., Da Silva, M., Paterson, G., Gonçalves, M. da C., Theocharopoulos, S., Yemefack, M., Tedou, S., Vrscaj, B., Grob, U., Kozák, J., Boruvka, L., Dobos, E., Taboada, M., Moretti, L., Rodriguez, D., 2017. &lt;span class=&#34;nocase&#34;&gt;Soil legacy data rescue via GlobalSoilMap and other international and national initiatives&lt;/span&gt;. GeoResJ 14, 1–19. &lt;a href=&#34;https://doi.org/10.1016/j.grj.2017.06.001&#34;&gt;https://doi.org/10.1016/j.grj.2017.06.001&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Beaudette2013&#34; class=&#34;csl-entry&#34;&gt;
+Beaudette, D.E., Roudier, P., O’Geen, A.T., 2013. &lt;span class=&#34;nocase&#34;&gt;Algorithms for quantitative pedology: A toolkit for soil scientists&lt;/span&gt;. Computers and Geosciences 52, 258–268. &lt;a href=&#34;https://doi.org/10.1016/j.cageo.2012.10.020&#34;&gt;https://doi.org/10.1016/j.cageo.2012.10.020&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Pinheiro2016&#34; class=&#34;csl-entry&#34;&gt;
+Pinheiro, H.S.K., Chagas, C. da S., Carvalho Junior, W., Anjos, L.H.C., 2016. &lt;span class=&#34;nocase&#34;&gt;Ferramentas de pedometria para caracteriza&lt;span class=&#34;nocase&#34;&gt;ç&lt;/span&gt;&lt;span class=&#34;nocase&#34;&gt;ã&lt;/span&gt;o da composi&lt;span class=&#34;nocase&#34;&gt;ç&lt;/span&gt;&lt;span class=&#34;nocase&#34;&gt;ã&lt;/span&gt;o granulom&lt;span class=&#34;nocase&#34;&gt;é&lt;/span&gt;trica de perfis de solos hidrom&lt;span class=&#34;nocase&#34;&gt;ó&lt;/span&gt;rficos&lt;/span&gt;. Pesquisa Agropecu&lt;span&gt;á&lt;/span&gt;ria Brasileira 51, 1326–1338. &lt;a href=&#34;https://doi.org/10.1590/S0100-204X2016000900032&#34;&gt;https://doi.org/10.1590/S0100-204X2016000900032&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Pinheiro2018&#34; class=&#34;csl-entry&#34;&gt;
+Pinheiro, H.S.K., Helena, L., Anjos, C., Xavier, P.A.M., Cesar, S., 2018. &lt;span class=&#34;nocase&#34;&gt;Quantitative pedology to evaluate a soil profile collection from the Brazilian semi-arid region&lt;/span&gt;. South African Journal of Geomatics 1862, 1–11. &lt;a href=&#34;https://doi.org/10.1080/02571862.2017.1419385&#34;&gt;https://doi.org/10.1080/02571862.2017.1419385&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-R2019&#34; class=&#34;csl-entry&#34;&gt;
+R Core Team, 2019. &lt;span class=&#34;nocase&#34;&gt;R: A Language and Environment for Statistical Computing&lt;/span&gt;.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amostragem para mapeamento de solos</title>
+      <link>https://eliasmcosta.netlify.app/post/sampling/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/post/sampling/</guid>
+      <description>
+&lt;script src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;introdução&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introdução&lt;/h1&gt;
+&lt;div id=&#34;conceitos-básicos-e-terminologias&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Conceitos básicos e terminologias&lt;/h2&gt;
+&lt;p&gt;A &lt;em&gt;amostragem&lt;/em&gt; diz respeito à seleção de um subconjunto de indivíduos de uma população para estimar características de toda a população &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Wang2012a&#34; role=&#34;doc-biblioref&#34;&gt;Wang et al., 2012&lt;/a&gt;)&lt;/span&gt;. Ou a amostragem pode ser definida como seleção de partes de um universo finito, com a proposta de obter informações desse universo &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-deGruijter2006&#34; role=&#34;doc-biblioref&#34;&gt;Gruijter et al., 2006&lt;/a&gt;)&lt;/span&gt;. A &lt;em&gt;amostra&lt;/em&gt; pode ser definida como a parte coletada, e levada para laboratório, ou observada &lt;em&gt;in situ&lt;/em&gt;. E uma única parte dessa amostra pode ser definida como &lt;em&gt;unidade amostral&lt;/em&gt;, o número de unidades amostrais é definido como &lt;em&gt;tamanho amostral&lt;/em&gt; ou &lt;em&gt;n amostral&lt;/em&gt; &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-deGruijter2006&#34; role=&#34;doc-biblioref&#34;&gt;Gruijter et al., 2006&lt;/a&gt;)&lt;/span&gt;.
+Uma confusão comum na literatura é sobre a definição de amostragem aleatória e amostragem arbitrária ou casual &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Brus2019&#34; role=&#34;doc-biblioref&#34;&gt;Brus, 2019&lt;/a&gt;)&lt;/span&gt; no segundo caso os locais de amostragem são escolhidos, fundamentalmente, em função da subjetividade da pessoa conduzindo o trabalho. Para evitar a confusão o termo &lt;em&gt;amostragem probabilística&lt;/em&gt; deve ser priorizado para as amostras aleatórias. A amostragem de probabilística é uma amostragem aleatória que atende a dois requisitos. Em primeiro lugar, todas as unidades da população têm uma probabilidade positiva de serem selecionadas. Nenhuma parte da população pode ser excluída. Em segundo lugar, a probabilidade de seleção de cada amostra possível é conhecida. Com amostragem arbitrária (casual), esses dois requisitos geralmente não são atendidos &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Brus2019&#34; role=&#34;doc-biblioref&#34;&gt;Brus, 2019&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-no-mapeamento-convencional-de-solos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amostragem no mapeamento convencional de solos&lt;/h2&gt;
+&lt;p&gt;No caso do mapeamento convencional de solos, o método de prospeção e a frequência de amostragem dependem do nível de detalhe e do objetivo do levantamento &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-IBGE2015&#34; role=&#34;doc-biblioref&#34;&gt;IBGE, 2015&lt;/a&gt;)&lt;/span&gt;. Por exemplo, na terceira edição do Manual Técnico de Pedologia &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-IBGE2015&#34; role=&#34;doc-biblioref&#34;&gt;IBGE, 2015&lt;/a&gt;)&lt;/span&gt; o método de prospeção indicado para levantamento exploratório é o de extrapolação, generalizações, correlações e poucas observações de campo, com uma frequência de amostragem de um perfil completo por classe de solo predominante na associação. Para o levantamento semi-detalhado a densidade de observações e a frequência de amostragem são calculadas em função da heterogeneidade da área e da facilidade de correlação de solos e a superfície geomorfológicas. No entanto, é recomendada uma média de 0,002 a 0,20 observações por hectare e um perfil completo e um complementar por classe de solo componente da unidade de mapeamento simples ou associação.
+Porém para o mapeamento digital de solos (MDS) esse esquema de amostragem não se aplica, pois não fornece estimativa estatística representativa. No MDS é necessário o uso de estratégias de amostragem estatisticamente robustas para diminuir a subjetividade e consequentemente os possíveis erros na predição &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Minasny2007b&#34; role=&#34;doc-biblioref&#34;&gt;Minasny and McBratney, 2007&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-no-mapeamento-digital-de-solosmds&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amostragem no mapeamento digital de solos(MDS)&lt;/h2&gt;
+&lt;p&gt;No caso do MDS a amostragem é um fator crucial, pois pode contribuir para elevar ou diminuir os custos do levantamento de solos. E é considera uma das etapas mais importantes para o MDS &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-CarvalhoJunior2014&#34; role=&#34;doc-biblioref&#34;&gt;Carvalho Júnior et al., 2014&lt;/a&gt;)&lt;/span&gt;. Normalmente no MDS, as amostras de calibração de modelos (geo)estatísticos as amostras coletadas devem representar ao máximo a distribuição espacial do que está sendo modelado (atributo ou classe de solo), por isso técnicas como o Hipercubo Latino Condicionado (cLHS) &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Minasny2006&#34; role=&#34;doc-biblioref&#34;&gt;Minasny and McBratney, 2006&lt;/a&gt;)&lt;/span&gt; são frequentemente usados nessa etapa e para essa finalidade. Esse tipo de amostragem é conhecido como amostragem não probabilística e será abordado com mais detalhes nos exemplos.
+Para validação dos resultados das predições espaciais no MDS o tipo de abordagem recomendado é a amostragem probabilística &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-BrusEtAl2011&#34; role=&#34;doc-biblioref&#34;&gt;Brus et al., 2011&lt;/a&gt;)&lt;/span&gt;, esse tipo de amostragem busca a imparcialidade e diminuição de viés para validação dos produtos do mapeamento. Atenção especial deve ser tomada nessa etapa, pois nem sempre é possível uma amostragem completamente probabilística (aleatória). Há então a necessidade de encontrar a condição perfeita do que é factível e o ideal. Exemplos de amostragem probabilística serão abordados com mais detalhe nos exemplos.&lt;br /&gt;
+Parte do material aqui desenvolvido foi extraído e adaptado do livro em desenvolvimento de Alessandro Samuel-Rosa, &lt;a href=&#34;http://samuel-rosa.github.io/pedometria-feita-simples/principios-da-amostragem-espacial.html&#34;&gt;pedometria feita simples&lt;/a&gt;. O capítulo 7 do livro trata de princípios da amostragem espacial. Também foram extraídas informações a respeito de amostragem para validação de mapas digitais de solos &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-BrusEtAl2011&#34; role=&#34;doc-biblioref&#34;&gt;Brus et al., 2011&lt;/a&gt;)&lt;/span&gt; e amostragem para mapeamento de solos &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Brus2019&#34; role=&#34;doc-biblioref&#34;&gt;Brus, 2019&lt;/a&gt;)&lt;/span&gt;. Assim objetivo desse tutorial e compilar as informações dos trabalhos mencionados para simular diferentes estratégias amostrais e dar suporte aos levantamentos de solos com foco em MDS e na agricultura de precisão (AP) e avaliação dos produtos gerados.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;área-experimental-e-base-dados&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Área experimental e base dados&lt;/h1&gt;
+&lt;div id=&#34;área-experimental&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Área experimental&lt;/h2&gt;
+Ao longo desse tutorial sobre amostragem, você verá exemplos de cada tipo de amostragem implementados no R usando o conjunto de dados de um área experimental localizada no município de Seropédica, estado do Rio de Janeiro, Brasil, nas coordenadas geográficas centrais aproximadas 22º54’00” S e 43º55’00” W (Figura &lt;a href=&#34;#fig:localizacao1&#34;&gt;1&lt;/a&gt;).
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:localizacao1&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;localizacao1.png&#34; alt=&#34;Mapa de localização do município de Seropédica-RJ. Fonte: Nascimento (2019)&#34; width=&#34;296&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Mapa de localização do município de Seropédica-RJ. Fonte: Nascimento (2019)
+&lt;/p&gt;
+&lt;/div&gt;
+Especificamente, o trabalho foi desenvolvido na Fazendinha Agroecológica km 47 (Sistema Integrado de Produção Agroecológica - SIPA), associada à Embrapa Agrobiologia, Empresa de Pesquisa Agropecuária do Estado do Rio de Janeiro (Pesagro-Rio) e Universidade Federal Rural do Rio de Janeiro, nas coordenadas geográficas centrais aproximadas 22º45’0” S e 43º40’30” W (Figura &lt;a href=&#34;#fig:localizacao2&#34;&gt;2&lt;/a&gt;).
+&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:localizacao2&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;localizacao2.png&#34; alt=&#34;Mapa de localização da área de estudo em Seropédica-RJ. Fonte: Nascimento (2019)&#34; width=&#34;267&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: Mapa de localização da área de estudo em Seropédica-RJ. Fonte: Nascimento (2019)
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;O clima do município caracteriza-se por ser do tipo Aw (Tropical com inverno seco), segundo a classificação de Köppen. Seropédica tem uma temperatura média de 23,5 °C e uma pluviosidade média anual de 1354 mm. Os maiores valores de precipitação são verificados nos meses de novembro a janeiro e os menores no período entre maio e agosto &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Oliveira-J2014&#34; role=&#34;doc-biblioref&#34;&gt;Oliveira-Júnior et al., 2014&lt;/a&gt;)&lt;/span&gt;. A área dos exemplos encontra-se ocupada por pastagem e caracteriza-se por apresentar relevo suave-ondulado a ondulado, altitude entre 17 a 50 m sobre o nível do mar, e ausência de rochosidade e pedregosidade em superfície &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Nascimento2019&#34; role=&#34;doc-biblioref&#34;&gt;Nascimento, 2019&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Os solos da área experimental são caraterizados por apresentar, no geral, baixa fertilidade e elevado grau de desenvolvimento com fatores e processos de formação específicos e dominantes para cada ordem e posição da paisagem. Para o trabalho de onde os dados derivam &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Nascimento2019&#34; role=&#34;doc-biblioref&#34;&gt;Nascimento, 2019&lt;/a&gt;)&lt;/span&gt;, foram abertas 10 trincheiras em diferentes pontos da paisagem, onde foram descritos, coletados e classificados perfis de solo, sendo uma trincheira no topo (P10), duas na posição de terço médio (P3 e P9), uma no terço inferior (P8), três no sopé da vertente (P2, P5 e P7) e três na área de baixada (P1, P4 e P6). Os solos foram classificados respectivamente como Argissolos Vermelhos P10, P9 e P3; Argissolo Amarelo, P8; Planossolos Háplicos (arênicos e espessarenicos), P7,P2,P5; Planossolos Háplicos (gleissólicos), P4, P6 e Cambissolo Hálico (com evidente processos de gleização) P1 (Figura &lt;a href=&#34;#fig:localizacao2&#34;&gt;2&lt;/a&gt;).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;base-de-dados-covariáveis-ambientais&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Base de dados (Covariáveis ambientais)&lt;/h2&gt;
+&lt;p&gt;As covariáveis ambientais para modelar as propriedades do solo foram derivadas de duas fontes de dados: modelo digital de elevação, dados de sensoriamento remoto (imagem orbital-RadipEye). Essas foram escolhidas para descrever os principais fatores de formação do solo, de acordo com a abordagem &lt;em&gt;scorpan&lt;/em&gt; &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-McBratneyEtAl2003&#34; role=&#34;doc-biblioref&#34;&gt;McBratney et al., 2003&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Modelo Digital de Elevação (MDE)&lt;/em&gt;: O MDE utilizado, com resolução espacial de 2 m, foi gerado a partir das curvas de nível e pontos cotados coletados com gps geodésico. Do MDE foram derivados 12 atributos de terreno com potencial de uso para modelagem no MDS.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Imagem de satélite&lt;/em&gt;: foram utilizadas duas cenas do sensor RapidEye ambas de 2011. As duas cenas foram usadas para cobrir toda a área de estudo, essas imagens têm resolução radiométrica de 12 bits, resolução espacial de 6,5 m, que ortorretificadas têm 5m &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-RapidEye2012&#34; role=&#34;doc-biblioref&#34;&gt;RapidEye, 2012&lt;/a&gt;)&lt;/span&gt;.
+Das cenas foram derivados os índices de vegetação (NDVI, inglês) e índice de vegetação ajustado ao solo (SAVI, inglês).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;áreas-ambientalmente-homogêneas-estratos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Áreas ambientalmente homogêneas (Estratos)&lt;/h2&gt;
+&lt;p&gt;Para fazer o exercício foram criadas áreas ambientalmente similares (homogêneas), essa abordagem é indicada em casos onde há por exemplo o interesse de fazer a amostragem por estratos. Nesse exercício optou-se por criar 10 estratos usando as variáveis, que julgamos serem as mais representativas para discretizar os ambientes. Foram elas elevação, declividade e SAVI. Para fazer o agrupamento da áreas de maior similaridade (criação de clusters) foi utilizado o algorítimo de classificação não supervisionada &lt;em&gt;K-Means Clustering&lt;/em&gt; que visa particionar os pontos em k grupos de forma que a soma dos quadrados dos pontos aos centros de cluster designados seja minimizada. No mínimo, todos os centros do cluster estão na média dos seus conjuntos de Voronoi (o conjunto de pontos de dados que estão mais próximos do centro do cluster).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;você-pode-baixar-os-dados-usados-aqui-no-seguinte-link&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Você pode baixar os dados usados aqui no seguinte link&lt;/h2&gt;
+&lt;p&gt;Para baixar shapes &lt;a href=&#34;https://mega.nz/folder/2FYmnSTZ#U8KUUKsOV5DzaBK5oQXEzA&#34;&gt;shape&lt;/a&gt; e para baixar os dados &lt;a href=&#34;https://mega.nz/folder/PMIi1IzT#OqptGkjIKxJigwPFGPB47g&#34;&gt;data&lt;/a&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Carregar os pacotes
+library(sp)
+library(raster)
+library(sampling)
+library(maptools)
+library(rgdal)
+library(clhs)
+library(spsann)
+library(sf)
+# Carregando a base de dados da fazendinha
+# Aqui você precisa direcionar o diretório onde salvou os dados no seu computador
+dados &amp;lt;- read.csv(&amp;quot;/home/elias/MEGA/Fazendinha/data/dataset.csv&amp;quot;); dados=dados[2:54]
+grid &amp;lt;- read.csv(&amp;quot;/home/elias/MEGA/Fazendinha/data/grid.csv&amp;quot;); grid=grid[2:23]
+
+# criando um cluster de unidades homogêneas usando os dados das covariáveis ambientais
+cluster &amp;lt;- kmeans(grid[, c(1,2,20)], 10)
+cluster = data.frame(cluster$cluster)
+grid=cbind(grid,cluster)
+
+## Foi necessário transformar os estratos para fator 
+##porque estava dando erro quando calculava o número
+## de amostras por estrato 
+
+# Função para transformar uma variável em fator
+grid$cluster.cluster=as.factor(grid$cluster.cluster) 
+grid1=grid
+#cluster=data.frame(grid[,c(&amp;quot;X&amp;quot;,&amp;quot;Y&amp;quot;)],results=cluster$cluster)
+#coordinates(cluster)= ~ X+Y; gridded(cluster)=T; cluster=raster(cluster)
+#plot(cluster)
+
+# Transformar o dataframe do grid em spatialdataframe
+sp::gridded(grid) &amp;lt;- ~ X + Y
+sp::proj4string(grid) &amp;lt;- sp::CRS(&amp;quot;+proj=utm +zone=23 +south +ellps=GRS80 +
+                                 towgs84=0,0,0,0,0,0,0 +units=m +no_defs&amp;quot;) 
+
+# Definindo o sistema de projção
+crsSIRGAS2000=CRS(&amp;quot;+proj=utm +zone=23 +south +ellps=GRS80 +
+                  towgs84=0,0,0,0,0,0,0 +units=m +no_defs&amp;quot;) 
+
+#carregando arquivos shapfile
+# Aqui você precisa direcionar o diretório onde salvou os dados no seu computador
+## Estradas
+estrada &amp;lt;- maptools::readShapeSpatial(&amp;quot;/home/elias/MEGA/Fazendinha/shape/estrada.shp&amp;quot;, 
+                                         proj4string=crsSIRGAS2000,verbose=TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Shapefile type: PolyLine, (3), # of Shapes: 1
+## Shapefile type: PolyLine, (3), # of Shapes: 1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Perfis completos
+perfis &amp;lt;- maptools::readShapeSpatial(&amp;quot;/home/elias/MEGA/Fazendinha/shape/pontos.shp&amp;quot;, 
+                                      proj4string=crsSIRGAS2000,verbose=TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Shapefile type: Point, (1), # of Shapes: 71
+## Shapefile type: Point, (1), # of Shapes: 71&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-para-mapeamento-de-solos&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Amostragem para mapeamento de solos&lt;/h1&gt;
+&lt;p&gt;Não existe um único tipo de estratégia amostral para qualquer trabalho de MDS ou AP, cada caso precisa ser estudado de forma particular e no geral a melhor estratégia depende do objetivo do projeto, do recurso financeiro e humano disponível e dificuldades operacionais encontradas na área que está sendo estuda. Do ponto de vista de dificuldades operacionais tem-se alguns variantes como limitação de acesso, por se tratar de áreas com acesso limitado, nesses casos há abordagens de amostragem específica como mostra &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-CambuleEtAl2013&#34; role=&#34;doc-biblioref&#34;&gt;Cambule et al.&lt;/a&gt; (&lt;a href=&#34;#ref-CambuleEtAl2013&#34; role=&#34;doc-biblioref&#34;&gt;2013&lt;/a&gt;)&lt;/span&gt; onde se tem áreas de maior acessibilidade e que sejam representativas da área total de estudo. Ainda pode haver limitação por permissão de acesso, sobretudo em áreas particulares. Quanto aos tipos de amostragem elas são divididas basicamente em dois grupos ou tipos fundamentais: &lt;em&gt;Amostragem probabilística&lt;/em&gt; e &lt;em&gt;não probabilística&lt;/em&gt;&lt;/p&gt;
+&lt;div id=&#34;amostragem-não-probabilística&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amostragem não probabilística&lt;/h2&gt;
+&lt;p&gt;A amostragem não probabilística é uma técnica de amostragem em que as amostras são reunidas em um processo que não dá a todos os indivíduos, no caso de solos perfil de solo &lt;em&gt;pedon&lt;/em&gt; ou ponto amostral da população, chances iguais de serem selecionados. A escolha dos locais de amostragem depende da definição de um critério a ser atendido, normalmente em MDS a caracterização da máxima variação de solos e suas propriedades representadas pelas covariáveis ambientais que simulam os fatores de formação do solo &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-McBratneyEtAl2003&#34; role=&#34;doc-biblioref&#34;&gt;McBratney et al., 2003&lt;/a&gt;)&lt;/span&gt;.
+A amostragem não-probabilística costuma ser dividida em três categorias:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;casual,
+&lt;/em&gt;conveniente, e
+*intencional&lt;/p&gt;
+&lt;p&gt;Além disso há amostragens não probabilísticas, onde através de algoritmos e de acordo com uma determinada finalidade, pode ser feita a otimização da configuração amostral. As principias otimizações são para representar o máximo possível o espaço de atributos (ex: tipos e/ou propriedades do solo) e espaço geográfico.&lt;/p&gt;
+&lt;div id=&#34;amostragem-casual&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem casual&lt;/h3&gt;
+&lt;p&gt;Na amostragem casual os locais de amostragem são escolhidos, fundamentalmente, em função da subjetividade da pessoa conduzindo a amostragem. Não existe um critério claro a ser atendido. Outros locais amostrais podem ser escolhidos caso outra pessoa conduza a amostragem, mesmo que não haja justificativa plausível para isso. Para fim de MDS e aplicaçõs de AP esse tipo de amostragem não é recomendado e é mais comum em trabalhos de convencionais de análise de fertilidade do solo.
+Na prática, a amostragem casual consiste em transitar pela área a ser amostrada e, aqui e acolá (ex: Zig-Zag), definir um local para amostragem. No caso da amostra para fins de avaliação da fertilidade do solo normalmente é feito uma divisão da área em glebas (áreas menores, mais homogêneas). Essa divisão deve considerar a inclinação do terreno, o tipo de cultura, a idade da cultura, as adubações feitas anteriormente e etc. Esse tipo de amostragem dá a impressão de que as observações são aleatórias, um pressuposto estatístico comum, mas como elas foram escolhidas subjetivamente pela pessoa que está conduzindo o trabalho não é possível se calcular a probabilidade de inclusão de cada amostra, portanto ela é casual, mas não aleatória.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra casual (zig-zag)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(3),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+set.seed(2000)
+pts &amp;lt;- sp::spsample(grid, n = 30, type = &amp;quot;nonaligned&amp;quot;)
+points(pts, pch = 21, cex = 0.75)
+arrows(
+  grid@coords[1, 1], grid@coords[1, 2], pts@coords[length(pts), 1],
+  pts@coords[length(pts), 2],  length = 0.1)
+for (i in 2:length(pts) - 1) {
+  arrows(
+    x1 = pts@coords[i, 1], y1 = pts@coords[i, 2], x0 = pts@coords[i + 1, 1], 
+    y0 = pts@coords[i + 1, 2],  length = 0.1)
+}
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-conveniente&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem conveniente&lt;/h3&gt;
+&lt;p&gt;Esse é um dos exemplos de amostragem em que o processo não é completamente aleatório, pois são priorizados por exemplo locais ao longo das estradas, num tipo de amostragem que pode ser aleatório (dentro do limite de acessibilidade, que seja conveniente) ou amostragem arbitrária, ou seja, amostragem sem uma finalidade específica em mente, a amostragem pode ser ainda direcionada em que o usuário decide os locais que serão amostrados.
+Esse tipo de amostragem busca otimizar recursos (financeiros e operacionais) evitando locais de difícil acesso, podendo assim realizar um número maior de observações. Como resultado esse tipo de amostragem tem observações concentradas por exemplo em áreas próximo a estradas e/ou trilhas, em áreas não montanhosas, em bordas, quando em condição de densas florestas.
+Aqui foram selecionadas amostras com distância máxima da estrada de 50 m&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra conveninte (distante da margem da estrada)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Tipo de solo&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+plot(estrada, add=TRUE)
+t=buffer(estrada, width=50)
+r &amp;lt;- raster(grid) 
+lr &amp;lt;- mask(r, t)
+lr=as(lr, &amp;quot;SpatialPixelsDataFrame&amp;quot;)
+points(spsample(lr, n = 30, &amp;quot;random&amp;quot;), pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-4-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-intencional&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem intencional&lt;/h3&gt;
+&lt;p&gt;Semelhante a amostragem convencional a amostragem intencional também busca otimizar recursos financeiros e operacionais, mas difere principalmente porque na amostragem intencional são agregados algum tipo de critério, por exemplo o pedológico, ou algum que atenda uma demnada específica em levantamento para fins de fertilidade do solo e/ou algum critério estatístico.
+Em geral, a amostragem intencional é o tipo de amostragem mais eficiente para a obtenção de observações de calibração para a modelagem espacial do solo. Isso se dá exatamente porque a localização das observações é definida com base no modelo usado para descrever a estrutura da variação espacial do solo bem como capturar as variações dos fatores envolvidos com gênese do solo &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-McBratneyEtAl2003&#34; role=&#34;doc-biblioref&#34;&gt;McBratney et al., 2003&lt;/a&gt;)&lt;/span&gt;. Em outras palavras, a configuração espacial das observações é otimizada para atender aos pressupostos e requerimentos do modelo formação do solo (&lt;em&gt;SCORPAN&lt;/em&gt;) que será usado na modelagem. Quanto melhor as amostras representarem as relações solo-paisagem e estrutura espacial dos dados, melhor será o desempenho do modelo calibrado.&lt;/p&gt;
+&lt;div id=&#34;amostragem-intencional-sistemática&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Amostragem intencional sistemática&lt;/h4&gt;
+&lt;p&gt;Na amostragem intencional sistemática usa algum critério pedológico e/ou estatístico e tem origem no modelo usado para descrever a estrutura da variação espacial do solo ou no método usado para fazer predições espaciais. Por exemplo, o objetivo pode ser selecionar os locais amostrais de maneira a obter a melhor cobertura espacial porque isso pode minimizar a incerteza ou erros das predições. O resultado dessa amostragem é a alocação de observações equidistantes no que é denominado &lt;em&gt;malha&lt;/em&gt; ou &lt;em&gt;grid&lt;/em&gt;, que pode ser quadrada ou triangular.
+Esse tipo de amostragem é comumente usado em trabalhos de mapeamento do solo para fins de AP, por exemplo para avaliação da fertilidade do solo, pois essas áreas são normalmente homogêneas e de mais fácil acesso.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra sistemática (malha quadrada)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+pts &amp;lt;- sp::spsample(grid, n = 30, type = &amp;quot;regular&amp;quot;, offset = c(0.5, 0.5))
+points(pts, pch = 21, cex = 0.75)
+polygon(pts@coords[c(1, 2, 6, 5, 1), ])
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-5-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra sistemática (malha triangular)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+pts &amp;lt;- sp::spsample(grid, n = 34, type = &amp;quot;hexagonal&amp;quot;, offset = c(0.5, 0.5))
+points(pts, pch = 21, cex = 0.75)
+polygon(pts@coords[c(1, 2, 5, 1), ])
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-5-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-intencional-caminhamento-livre&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Amostragem intencional caminhamento livre&lt;/h4&gt;
+&lt;p&gt;No critério intencional denominado caminhamento livre, as amostras são escolhidas a fim de agregar as questões de custos, conhecimento do especialista (ex: Pedólogo), e máxima caracterização da área. A localização das observações é definida com base no conhecimento tácito do responsável, no seu modelo mental das relações solo-paisagem ou na pedogênese. O modelo mental é construído com a experiência obtida no campo e sua qualidade geralmente é diretamente proporcional ao número de anos de trabalho de campo e a diversidade de solos e paisagem que o profissional pode visitar.
+Alguns dos exemplos são amostragens em &lt;em&gt;Topossequência&lt;/em&gt;, que busca amostrar os diferentes tipos de solos de acordo com sua variação topográfica, &lt;em&gt;Topolitossequência&lt;/em&gt;, que é a variação no relevo e material de origem, &lt;em&gt;Climosequência&lt;/em&gt;, que caracteriza variação nas condições climáticas da região de estudo.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Caminhamento livre&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(3),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+points(perfis, pch = 21, cex = 0.75)
+text(perfis, perfis$id, cex=0.75, adj = c(01.5))
+arrows(
+  grid@coords[1, 1], grid@coords[1, 2], perfis@coords[length(perfis), 1], 
+  perfis@coords[length(perfis), 2],
+  length = 0.1)
+for (i in 2:length(perfis) - 1) {
+  arrows(
+    x1 = perfis@coords[i, 1], y1 = perfis@coords[i, 2], x0 = perfis@coords[i + 1, 1], 
+    y0 = perfis@coords[i + 1, 2], length = 0.1)
+}
+leg &amp;lt;- paste(&amp;quot;Amostras n = 10&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otimização-de-configurações-amostrais&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Otimização de Configurações Amostrais&lt;/h3&gt;
+&lt;div id=&#34;hipercubo-latino-condicionado-clhs&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Hipercubo Latino Condicionado (cLHS)&lt;/h4&gt;
+&lt;p&gt;O cLHS é um algoritmo de busca baseado em regras heurísticas combinadas com um cronograma de recozimento simulado. Para amostragem de uma área informações prévias representativas da área de estudo são fornecidas ao algoritmo como dados auxiliares (covariáveis ambientais). Ele fornece uma cobertura completa da faixa de cada covariável estratificando a distribuição marginal, ou seja, usa as informações fornecidas para produzir uma estratificação de amostragem otimizada &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Minasny2006&#34; role=&#34;doc-biblioref&#34;&gt;Minasny and McBratney, 2006&lt;/a&gt;)&lt;/span&gt;. Variações do cLHS para otimização de locais de amostragem podem ser encontradas em &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Roudier2012&#34; role=&#34;doc-biblioref&#34;&gt;Roudier et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Roudier2012&#34; role=&#34;doc-biblioref&#34;&gt;2012&lt;/a&gt;)&lt;/span&gt;, &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Mulder2013&#34; role=&#34;doc-biblioref&#34;&gt;Mulder et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Mulder2013&#34; role=&#34;doc-biblioref&#34;&gt;2013&lt;/a&gt;)&lt;/span&gt;, &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-CarvalhoJunior2014&#34; role=&#34;doc-biblioref&#34;&gt;Carvalho Júnior et al.&lt;/a&gt; (&lt;a href=&#34;#ref-CarvalhoJunior2014&#34; role=&#34;doc-biblioref&#34;&gt;2014&lt;/a&gt;)&lt;/span&gt;, &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Clifford2014&#34; role=&#34;doc-biblioref&#34;&gt;Clifford et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Clifford2014&#34; role=&#34;doc-biblioref&#34;&gt;2014&lt;/a&gt;)&lt;/span&gt;, &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Kidd2014&#34; role=&#34;doc-biblioref&#34;&gt;Kidd et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Kidd2014&#34; role=&#34;doc-biblioref&#34;&gt;2015&lt;/a&gt;)&lt;/span&gt;, e &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Stumpf2016&#34; role=&#34;doc-biblioref&#34;&gt;Stumpf et al.&lt;/a&gt; (&lt;a href=&#34;#ref-Stumpf2016&#34; role=&#34;doc-biblioref&#34;&gt;2016&lt;/a&gt;)&lt;/span&gt;.
+No caso desse exemplo foi usado como variáveis auxiliares no cLHS a elevação, declividade e SAVI, ou seja, as mesmas que foram escolhidas para gerar as áreas ambientalmente homogêneas (os estratos) que foram tidas como as principais nesse estudo de caso.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;dem=raster(grid[1])
+slope=raster(grid[2])
+savi=raster(grid[20])
+stack=raster::addLayer(dem, slope, savi)
+s &amp;lt;- rasterToPoints(stack, spatial=TRUE)
+set.seed(2001)
+pts &amp;lt;- clhs(s, size = 30, iter = 1000, progress = FALSE) 
+main &amp;lt;- &amp;quot;Amostra pelo Hipercubo Latino Condicionado (cLHS)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+points(pts, pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-7-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;identificação-de-tendência-espacial-e-estimativa-optimclhs&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Identificação de tendência espacial e estimativa (optimCLHS)&lt;/h4&gt;
+&lt;p&gt;Essa é uma otimização de configurações de amostra para identificação de tendência espacial. As funções de otimização foram implementadas no pacote &lt;em&gt;spsann&lt;/em&gt; do &lt;em&gt;R&lt;/em&gt;.
+Esse método busca otimizar uma configuração de amostra para identificação e estimativa de tendência espacial usando o método proposta por &lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#ref-Minasny2006&#34; role=&#34;doc-biblioref&#34;&gt;Minasny and McBratney&lt;/a&gt; (&lt;a href=&#34;#ref-Minasny2006&#34; role=&#34;doc-biblioref&#34;&gt;2006&lt;/a&gt;)&lt;/span&gt;, método anteriormente citado, conhecido como cLHS. Nesse método otimizado, uma função de utilidade &lt;em&gt;U&lt;/em&gt; é definida para que a amostra reproduza a distribuição marginal e a matriz de correlação das covariáveis numéricas e as proporções de classe do fator covariáveis (cLHS). A função de utilidade é obtida agregando três funções objetivas: &lt;em&gt;O1&lt;/em&gt;, &lt;em&gt;O2&lt;/em&gt; e &lt;em&gt;O3&lt;/em&gt;. Nesse exemplo assim com no cLHS usamos como variáveis auxiliares (covariáveis) a elevação, declividade e SAVI.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;candi &amp;lt;- grid1[, 21:22]; names(candi)[1] &amp;lt;- &amp;quot;x&amp;quot; ;names(candi)[2] &amp;lt;- &amp;quot;y&amp;quot;
+covars &amp;lt;- grid1[, c(1,2,20)]
+schedule &amp;lt;- scheduleSPSANN(
+  chains = 1, initial.temperature = 0.001, x.max =  635865.8, y.max = 7483684,
+  x.min = 0, y.min = 0, cellsize = 40)
+set.seed(2001)
+pts &amp;lt;- spsann::optimCLHS(
+  points = 30, candi = candi, covars = covars, use.coords = TRUE,
+  clhs.version = &amp;quot;update&amp;quot;,  weights = list(O1 = 0.5, O3 = 0.5), schedule = schedule)
+main &amp;lt;- &amp;quot;Identificação de tendência espacial e estimativa (optimCLHS)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+points(pts$points[, 2:3], pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-8-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otimização-de-configurações-de-amostra-para-interpolação-espacial-optimmssd&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Otimização de configurações de amostra para interpolação espacial (optimMSSD)&lt;/h4&gt;
+&lt;p&gt;Otimização para estimativa de tendências espaciais. Esse é um tipo de configuração amostral espacial otimizada no espaço geográfico para fins de interpolação espacial usando krigagem. O critério utilizado é a média ao quadrado da distância mais curta (MSSD, inglês) entre pontos de amostragem e pontos de predição.
+Amostragem por cobertura espacial: A amostragem por cobertura espacial baseia-se no conhecimento de que a variação da krigagem depende da distância entre os pontos da amostra. Assim, quanto melhor o ‘spread’ dos pontos da amostra no domínio espacial, menor a variação da krigagem. Essa abordagem é semelhante à grade regular de ponto, no entanto uma grade regular geralmente é sub-ótima para áreas irregulares &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Walvoort2010&#34; role=&#34;doc-biblioref&#34;&gt;Walvoort et al., 2010&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;pts &amp;lt;- spsann::optimMSSD(
+  points = 30, candi = candi, schedule = schedule)
+main &amp;lt;- &amp;quot;Otimização de amostra para interpolação espacial (optimMSSD)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+points(pts$points[, 2:3], pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-9-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;strong&gt;Para mais e informações sobre funções implementadas no R para otimização amostral, vocês podem consultar o o pacote &lt;a href=&#34;https://rdrr.io/cran/spsann/&#34;&gt;spsann&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-probabilística&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amostragem probabilística&lt;/h2&gt;
+&lt;p&gt;A amostragem probabilística é uma técnica de amostragem em que a amostra de uma população, no caso uma coleção de perfis de solo ou &lt;em&gt;pedon&lt;/em&gt; de toda área, é escolhida usando um método baseado na teoria da probabilidade. Para que um perfil (ou ponto amostral) seja considerado uma amostra probabilística, ele deve ser selecionado usando uma seleção aleatória. Nesse tipo de amostragem todo e qualquer local possui alguma chance de ser amostrado, mesmo que alguns tenham maior chance do que outros. No caso da modelagem espacial do solo, a amostragem probabilística costuma ser usada para a validação das predições espaciais &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-BrusEtAl2011&#34; role=&#34;doc-biblioref&#34;&gt;Brus et al., 2011&lt;/a&gt;)&lt;/span&gt;. Entretanto, ela também pode ser usada para obter observações para a calibração dos modelos preditivos ou serem usadas para validação e calibração em abordagens como na validação cruzada &lt;em&gt;leave-one-out&lt;/em&gt; (LOO-CV), &lt;em&gt;K-folders&lt;/em&gt; (k-folders-CV) &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-BrusEtAl2011&#34; role=&#34;doc-biblioref&#34;&gt;Brus et al., 2011&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;div id=&#34;amostragem-aleatória-simples&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem aleatória simples&lt;/h3&gt;
+&lt;p&gt;Amostragem aleatória simples é a técnica de amostragem onde todos os elementos que compõem o universo amostral têm idêntica probabilidade de serem selecionados para a amostra, ou seja, mesma probabilidade de inclusão e são completamente independentes uns dos outros.
+Seria como fazer um sorteio justo entre os indivíduos do universo: No caso específico da ciência do solo seria por exemplo selecionar qualquer &lt;em&gt;pedon&lt;/em&gt; de um determinado tipo de solo (classe). Nesse tipo de amostragem é apenas definido o número de amostras, &lt;em&gt;n&lt;/em&gt;.
+Apesar de ser um método totalmente probabilístico, ou seja, não é tendencioso ou enviesado, condição ideal para validação dos resultados das predições no MDS e AP, as amostras selecionadasnesse método podem ter irregularidade na sua distribuição espacial, podendo haver forte agrupamento de alguns locais amostrais além da presença de amplos espaços vazios entre locais amostrais.
+Isso significa que a amostras aleatórias simples não são boas quando se busca amostras espacialmente representativas de uma área de estudo e/ou que cubram toda a variação das características do terreno e paisagem.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra aleatória simples&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+set.seed(2001)
+pts &amp;lt;- grid[sampling::srswr(30, length(grid)) == 1, ]
+set.seed(2001)
+pts@coords &amp;lt;- 
+  pts@coords + matrix(runif(prod(dim(pts@coords)), min = -0.5, max = 0.5), ncol = 2) * 
+  grid@grid@cellsize
+points(pts, pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-10-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-aleatória-estratificada-simples&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem aleatória estratificada simples&lt;/h3&gt;
+&lt;p&gt;As amostras estratificadas podem ser: &lt;em&gt;estratificada proporcional&lt;/em&gt;, quando a quantidade de pontos é proporcional a área do estrato; &lt;em&gt;estratificada uniforme&lt;/em&gt;, quando há o mesmo número de amostras para todos os estratos; &lt;em&gt;estratificada ótima&lt;/em&gt;, nesse caso o tamanho das amostras é definido em proporção com o desvio-padrão das variáveis estudadas. Isto é, se obtêm camadas maiores dos estratos com maior variabilidade interna para representar melhor o total da amostra nos grupos populacionais mais difíceis de estudar.
+Assim como a amostragem aleatória simples, a amostragem aleatória estratificada simples pertence à família de amostras probabilísticas e consiste em dividir toda a população ou o “objeto de estudo” em diferentes subgrupos ou estratos diferentes, de maneira que um indivíduo pode fazer parte apenas de um único estrato ou camada. No caso específico desse exemplo dividimos a área em 10 estratos, que são as nossas áreas ambientalmente homogêneas e pontos de amostragem são selecionados aleatoriamente dentro de cada estrato.
+Se as subáreas (estratos) são internamente homogêneas e heterogêneas entre si o uso da amostragem aleatória estratificada reduz o erro amostral e pode ser, de certa forma, mais eficiente para validação dos resultados do MDS e AP, pois você certifica que não ficaram espaços vazios e que todos os tipos de solos (ou atributos do solo) tem no mínimo um representante para validação partindo do pressuposto que os estratos ambientalmente heterogêneos entre se representam solos diferentes, que poderiam não terem sido amostrados na amostragem aleatória simples.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra aleatória estratificada simples&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend( &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+n &amp;lt;- round(30 * summary(grid$cluster.cluster) / length(grid))
+set.seed(2001)
+pts &amp;lt;- sampling::strata(
+  grid[order(grid$cluster.cluster), ], stratanames = &amp;quot;cluster.cluster&amp;quot;, size = n, 
+  method = &amp;quot;srswr&amp;quot;)$ID_unit
+pts &amp;lt;- grid[order(grid$cluster.cluster), ][pts, ]
+set.seed(2001)
+pts@coords &amp;lt;- pts@coords + 
+  matrix(runif(prod(dim(pts@coords)), min = -0.5, max = 0.5), ncol = 2) * 
+  grid@grid@cellsize
+points(pts, pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-11-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-aleatória-sistemática&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem aleatória sistemática&lt;/h3&gt;
+&lt;p&gt;Amostragem aleatória sistemática é uma técnica dentro da categoria de &lt;em&gt;amostragem probabilística&lt;/em&gt; – que requer certo controle do marco amostral entre os indivíduos selecionados junto com a probabilidade que sejam selecionados – consiste em escolher um indivíduo inicialmente de forma aleatória entre a população e, posteriormente, selecionar para amostra cada enésimo indivíduo disponível de forma sistemática, pode ser por exemplo há uma distância pré-definida e seguindo uma determinada direção. O pesquisador deve ter certeza de que sistematização escolhida não reflete um certo padrão de características presentes no terreno. Se existir um padrão na população e coincidir com a sistematização do pesquisador, a aleatoriedade da técnica de amostragem fica comprometida.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra aleatória sistemática (malha quadrada)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+set.seed(2001)
+pts &amp;lt;- sp::spsample(grid, n = 30, type = &amp;quot;regular&amp;quot;)
+points(pts, pch = 21, cex = 0.75)
+polygon(pts@coords[c(1, 5, 6, 2, 1), ])
+set.seed(1984)
+points(sp::spsample(grid, n = 30, type = &amp;quot;regular&amp;quot;), pch = 20, cex = 0.75)
+legend(636200, 7483450, legend = &amp;quot;Amostras (2019)&amp;quot;, pch = 21, bty = &amp;quot;n&amp;quot;)
+legend(636200, 7483400, legend = &amp;quot;Amostras (2020)&amp;quot;, pch = 20, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-12-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra aleatória sistemática (malha desalinhada)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+set.seed(2001)
+pts &amp;lt;- sp::spsample(grid, n = 31, type = &amp;quot;nonaligned&amp;quot;)
+points(pts, pch = 21, cex = 0.75)
+polygon(pts@coords[c(2, 7, 8, 3, 2), ])
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-12-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amostragem-aleatória-em-conglomerados&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Amostragem aleatória em conglomerados&lt;/h3&gt;
+&lt;p&gt;Amostra por conglomerados é um procedimento de &lt;em&gt;amostragem probabilística&lt;/em&gt; em que os elementos da população são selecionados aleatoriamente de forma natural por grupos (clusters). Os elementos da amostragem são selecionados a partir da população de maneira individual, um de cada vez. A separação desses clusters é evidente numa população quando os grupos são mutuamente homogêneos e internamente heterogêneos.
+Na amostragem aleatória em conglomerados um estágio após seleção de grupos todos os indivíduos daquele grupo são selecionados. No caso da amostragem em dois estágios após a definição e seleção de grupos uma amostra aleatória (por exemplo uma amostra aleatória simples) se tornam os elementos de cada grupo selecionado.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;main &amp;lt;- &amp;quot;Amostra aleatória em conglomerados (dois estágios)&amp;quot;
+plot(
+  grid@coords, type = &amp;quot;n&amp;quot;, asp = 1, main = main,
+  xlab = &amp;quot;Longitude (m)&amp;quot;, ylab = &amp;quot;Latitude (m)&amp;quot;)
+image(
+  grid, &amp;quot;cluster.cluster&amp;quot;, col = terrain.colors(10), axes = TRUE, add = TRUE)
+legend(
+  &amp;quot;topleft&amp;quot;, title = &amp;quot;Áreas homogêneas&amp;quot;, fill = terrain.colors(10),
+  legend = c(&amp;quot;1&amp;quot;, &amp;quot;2&amp;quot;, &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, &amp;quot;5&amp;quot;, &amp;quot;6&amp;quot;, &amp;quot;7&amp;quot;, &amp;quot;8&amp;quot;, &amp;quot;9&amp;quot;, &amp;quot;10&amp;quot;),
+  border = terrain.colors(10), bty = &amp;quot;n&amp;quot;)
+set.seed(2002)
+pts &amp;lt;- sp::spsample(grid, n = 33, type = &amp;quot;clustered&amp;quot;, nclusters = 10)
+points(pts, pch = 21, cex = 0.75)
+leg &amp;lt;- paste(&amp;quot;Amostras (n = &amp;quot;, length(pts), &amp;quot;)&amp;quot;, sep = &amp;quot;&amp;quot;)
+legend(635700, 7483400, legend = leg, pch = 21, bty = &amp;quot;n&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://eliasmcosta.netlify.app/post/sampling/index_files/figure-html/unnamed-chunk-13-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;se-você-chegou-até-aqui-muito-bem&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Se você chegou até aqui muito bem !!!! 👏👏👏&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;referências&#34; class=&#34;section level1 unnumbered&#34;&gt;
+&lt;h1&gt;Referências&lt;/h1&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body hanging-indent&#34;&gt;
+&lt;div id=&#34;ref-Brus2019&#34; class=&#34;csl-entry&#34;&gt;
+Brus, D.J., 2019. &lt;span class=&#34;nocase&#34;&gt;Sampling for digital soil mapping: A tutorial supported by R scripts&lt;/span&gt;. Geoderma 338, 464–480. &lt;a href=&#34;https://doi.org/10.1016/j.geoderma.2018.07.036&#34;&gt;https://doi.org/10.1016/j.geoderma.2018.07.036&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-BrusEtAl2011&#34; class=&#34;csl-entry&#34;&gt;
+Brus, D.J., Kempen, B., Heuvelink, G.B.M., 2011. &lt;span class=&#34;nocase&#34;&gt;Sampling for validation of digital soil maps&lt;/span&gt;. European Journal of Soil Science 62, 394–407. &lt;a href=&#34;https://doi.org/10.1111/j.1365-2389.2011.01364.x&#34;&gt;https://doi.org/10.1111/j.1365-2389.2011.01364.x&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-CambuleEtAl2013&#34; class=&#34;csl-entry&#34;&gt;
+Cambule, A.H., Rossiter, D.G., Stoorvogel, J.J., 2013. &lt;span class=&#34;nocase&#34;&gt;A methodology for digital soil mapping in poorly-accessible areas&lt;/span&gt;. Geoderma 192, 341–353. &lt;a href=&#34;https://doi.org/10.1016/j.geoderma.2012.08.020&#34;&gt;https://doi.org/10.1016/j.geoderma.2012.08.020&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-CarvalhoJunior2014&#34; class=&#34;csl-entry&#34;&gt;
+Carvalho Júnior, W., Chagas, C.D.S., Muselli, A., Pinheiro, H.S.K., Pereira, N.R., Bhering, S.B., 2014. &lt;span class=&#34;nocase&#34;&gt;M&lt;span class=&#34;nocase&#34;&gt;é&lt;/span&gt;todo do hipercubo latino condicionado para a amostragem de solos na presen&lt;span class=&#34;nocase&#34;&gt;ç&lt;/span&gt;a de covari&lt;span class=&#34;nocase&#34;&gt;á&lt;/span&gt;veis ambientais visando o mapeamento digital de solos&lt;/span&gt;. Revista Brasileira de Ci&lt;span&gt;ê&lt;/span&gt;ncia do Solo 38, 386–396. &lt;a href=&#34;https://doi.org/10.1590/S0100-06832014000200003&#34;&gt;https://doi.org/10.1590/S0100-06832014000200003&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Clifford2014&#34; class=&#34;csl-entry&#34;&gt;
+Clifford, D., Payne, J.E., Pringle, M.J., Searle, R., Butler, N., 2014. &lt;span class=&#34;nocase&#34;&gt;Pragmatic soil survey design using flexible Latin hypercube sampling&lt;/span&gt;. Computers and Geosciences 67, 62–68. &lt;a href=&#34;https://doi.org/10.1016/j.cageo.2014.03.005&#34;&gt;https://doi.org/10.1016/j.cageo.2014.03.005&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-deGruijter2006&#34; class=&#34;csl-entry&#34;&gt;
+Gruijter, J. de, Brus, D., Bierkens, M.F.P., Knotters, M., 2006. &lt;span class=&#34;nocase&#34;&gt;Sampling for Natural Resource Monitoring&lt;/span&gt;, in: Springer. Berlin, p. 334. &lt;a href=&#34;https://doi.org/10.2136/sssaj2007.0018br&#34;&gt;https://doi.org/10.2136/sssaj2007.0018br&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-IBGE2015&#34; class=&#34;csl-entry&#34;&gt;
+IBGE, 2015. &lt;span class=&#34;nocase&#34;&gt;Manual T&lt;span class=&#34;nocase&#34;&gt;é&lt;/span&gt;cnico de Pedologia&lt;/span&gt;, 3&lt;span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt; Edi&lt;span&gt;ç&lt;/span&gt;&lt;span&gt;ã&lt;/span&gt;o. ed. Rio de Janeiro.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Kidd2014&#34; class=&#34;csl-entry&#34;&gt;
+Kidd, D., Malone, B., McBratney, Alex.B., Minasny, B., Webb, M., 2015. &lt;span class=&#34;nocase&#34;&gt;Operational sampling challenges to digital soilmapping in Tasmania, Australia&lt;/span&gt;. Geoderma Regional 4, 1–10.
+&lt;/div&gt;
+&lt;div id=&#34;ref-McBratneyEtAl2003&#34; class=&#34;csl-entry&#34;&gt;
+McBratney, A.B., Mendonça-Santos, M.L., Minasny, B., 2003. &lt;span class=&#34;nocase&#34;&gt;On digital soil mapping&lt;/span&gt;. Geoderma 117, 3–52. &lt;a href=&#34;https://doi.org/10.1016/S0016-7061(03)00223-4&#34;&gt;https://doi.org/10.1016/S0016-7061(03)00223-4&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Minasny2007b&#34; class=&#34;csl-entry&#34;&gt;
+Minasny, B., McBratney, A.B., 2007. &lt;span class=&#34;nocase&#34;&gt;Latin hypercube sampling as tool for digital soil mapping&lt;/span&gt;. Developments in Soil Science 31, 153–606. &lt;a href=&#34;https://doi.org/10.1016/S0166-2481(06)31012-4&#34;&gt;https://doi.org/10.1016/S0166-2481(06)31012-4&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Minasny2006&#34; class=&#34;csl-entry&#34;&gt;
+Minasny, B., McBratney, A.B., 2006. &lt;span class=&#34;nocase&#34;&gt;A conditioned Latin hypercube method for sampling in the presence of ancillary information&lt;/span&gt;. Computers and Geosciences 32, 1378–1388. &lt;a href=&#34;https://doi.org/10.1016/j.cageo.2005.12.009&#34;&gt;https://doi.org/10.1016/j.cageo.2005.12.009&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Mulder2013&#34; class=&#34;csl-entry&#34;&gt;
+Mulder, V.L., Bruin, S. de, Schaepman, M.E., 2013. &lt;span class=&#34;nocase&#34;&gt;Representing major soil variability at regional scale by constrained Latin Hypercube Sampling of remote sensing data&lt;/span&gt;. International Journal of Applied Earth Observations and Geoinformation 21, 301–310. &lt;a href=&#34;https://doi.org/10.1016/j.jag.2012.07.004&#34;&gt;https://doi.org/10.1016/j.jag.2012.07.004&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Nascimento2019&#34; class=&#34;csl-entry&#34;&gt;
+Nascimento, C.W.R., 2019. &lt;span class=&#34;nocase&#34;&gt;Carlos wagner rodrigues do nascimento 2019&lt;/span&gt; (PhD thesis).
+&lt;/div&gt;
+&lt;div id=&#34;ref-Oliveira-J2014&#34; class=&#34;csl-entry&#34;&gt;
+Oliveira-Júnior, J.F., Delgado, R.C., Gois, G., Lannes, A., Dias, F.O., Souza, J.C., Souza, M., 2014. &lt;span class=&#34;nocase&#34;&gt;An&lt;span class=&#34;nocase&#34;&gt;á&lt;/span&gt;lise da precipita&lt;span class=&#34;nocase&#34;&gt;ç&lt;/span&gt;&lt;span class=&#34;nocase&#34;&gt;ã&lt;/span&gt;o e sua rela&lt;span class=&#34;nocase&#34;&gt;ç&lt;/span&gt;&lt;span class=&#34;nocase&#34;&gt;ã&lt;/span&gt;o com sistemas meteorol&lt;span class=&#34;nocase&#34;&gt;ó&lt;/span&gt;gicos em serop&lt;span class=&#34;nocase&#34;&gt;é&lt;/span&gt;dica, Rio de Janeiro&lt;/span&gt;. Floresta e Ambiente 21, 140–149. &lt;a href=&#34;https://doi.org/10.4322/floram.2014.030&#34;&gt;https://doi.org/10.4322/floram.2014.030&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-RapidEye2012&#34; class=&#34;csl-entry&#34;&gt;
+RapidEye, 2012. &lt;span&gt;RapidEye Mosaic™ Product Specifications&lt;/span&gt;.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Roudier2012&#34; class=&#34;csl-entry&#34;&gt;
+Roudier, P., Hewitt, A.E., Beaudette, D.E., 2012. &lt;span class=&#34;nocase&#34;&gt;A conditioned Latin hypercube sampling algorithm incorporating operational constraints&lt;/span&gt;. Digital Soil Assessments and Beyond 227–231. &lt;a href=&#34;https://doi.org/10.1201/b12728-46&#34;&gt;https://doi.org/10.1201/b12728-46&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Stumpf2016&#34; class=&#34;csl-entry&#34;&gt;
+Stumpf, F., Schmidt, K., Behrens, T., Schönbrodt-stitt, S., Buzzo, G., Dumperth, C., Wadoux, A., Xiang, W., Scholten, T., 2016. &lt;span class=&#34;nocase&#34;&gt;Incorporating limited field operability and legacy soil samples in a hypercube sampling design for digital soil mapping&lt;/span&gt;. Journal of Plant Nutrition and Soil Science 000, 1–11. &lt;a href=&#34;https://doi.org/10.1002/jpln.201500313&#34;&gt;https://doi.org/10.1002/jpln.201500313&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Walvoort2010&#34; class=&#34;csl-entry&#34;&gt;
+Walvoort, D.J.J., Brus, D.J., Gruijter, J.J. de, 2010. &lt;span class=&#34;nocase&#34;&gt;An R package for spatial coverage sampling and random sampling from compact geographical strata by k-means&lt;/span&gt;. Computers and Geosciences 36, 1261–1267. &lt;a href=&#34;https://doi.org/10.1016/j.cageo.2010.04.005&#34;&gt;https://doi.org/10.1016/j.cageo.2010.04.005&lt;/a&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Wang2012a&#34; class=&#34;csl-entry&#34;&gt;
+Wang, J.F., Stein, A., Gao, B.B., Ge, Y., 2012. &lt;span class=&#34;nocase&#34;&gt;A review of spatial sampling&lt;/span&gt;. Spatial Statistics 2, 1–14. &lt;a href=&#34;https://doi.org/10.1016/j.spasta.2012.08.001&#34;&gt;https://doi.org/10.1016/j.spasta.2012.08.001&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping soil properties in a poorly-accessible area</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/rbcs2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/rbcs2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial Bayesian belief networks a a participatory approach for mapping environmental vulnerability at the Itatiaia National Park, Brazil</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/eas2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/eas2020/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapeamento digital de solos em área de produção de petróleo e gás - Bahia</title>
+      <link>https://eliasmcosta.netlify.app/project/bahia/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/project/bahia/</guid>
+      <description>&lt;p&gt;Essa parte do relatório refere-se aos estudos de levantamento de solos em escala detalhada (menor que 1:25.000) na região do nordeste da Bahia na área de atuação da Petrobras com extração terrestre de petróleo e gás. No projeto inicial a ideia era mapeamento de seis regiões homogêneas de atuação da companhia. Porém, o trabalho de campo teve que ser interrompido devido a Pandemia do Coronavírus (Covid-19), assim, apenas três das seis áreas previstas foram levantadas. Dessas, apenas a área Sátiro Dias teve suas amostras analisadas, sendo assim, é nessa área que este relatório concentra esforços.
+As campanhas de levantamento de solos objetivaram identificar os principias padrões de solos e iniciou-se na região da área de referência Sátiro Dias (AR-6), depois foram realizadas campanhas na área de referência Alagoinhas (AR-4) e posteriormente na área referência Entre Rios (AR-5). Na área de Sátiro Dias, foram descritos e coletados 58 perfis prioridade e 20 perfis extras (perfis complementares), e também foram realizadas 86 tradagens (T), as quais foram descritas, coletadas e analisadas em laboratório com o mesmo procedimento previsto para os perfis de solo. O principalobjetivo da  coleta dessas amostras de tradagem, foi aumentar o número deobservações de campo no espaço geográfico e espaço de atributos, bem como, auxiliar o entendimento das relações solo e paisagem da região. Para validação dos resultados foram descritos e coletados 28 perfis de validação, os quais foram selecionados aleatoriamente.
+Na área Alagoinhas foram descritos 62 perfis prioridade, 150 tradagens e 19 perfis de validação, por fim, para Entre Rios foram 55 perfis fixo, 1 perfil extra, 140 tradagens e 26 perfis de validação. Também para os perfis prioridade e validação, aqueles que eram representativos da paisagem e do tipo de solo, foram realizados testes de permeabilidade (infiltração) em profundidades variadas a depender do horizonte diagnostico do perfil. Em todos os perfis: prioridade, validação e extras foram realizados testes de resistência à penetração na profundidade de 0-60 cm. Foram coletadas amostras de densidade do solo (Ds) com anel de Kopeck e amostras indeformadas com coletor de Uland para avaliação da porosidade e condutividade hidráulica do solo, quando possível, a realização da coleta em função dos fatores limitantes (ex: linha de pedra, espessura do horizonte). Os dados de resistência a penetração, permeabilidade, densidade do solo, porosidade e condutividade, ainda serão analisados, assim, não serão apresentados nesse relatório.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao estudo dos solos e a influência na restauração florestal</title>
+      <link>https://eliasmcosta.netlify.app/talk/introducao-ao-estudo-dos-solos-e-a-influencia-na-restauracao-florestal/</link>
+      <pubDate>Wed, 29 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/talk/introducao-ao-estudo-dos-solos-e-a-influencia-na-restauracao-florestal/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial Bayesian belief networks. A participatory approach for mapping soil vulnerability at the Itatiaia National Park, Brazil</title>
+      <link>https://eliasmcosta.netlify.app/talk/spatial-bayesian-belief-networks.-a-participatory-approach-for-mapping-soil-vulnerability-at-the-itatiaia-national-park-brazil/</link>
+      <pubDate>Sun, 12 Aug 2018 08:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/talk/spatial-bayesian-belief-networks.-a-participatory-approach-for-mapping-soil-vulnerability-at-the-itatiaia-national-park-brazil/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting soil carbon content in a limited accessible area using 3D modelling; Study case at Itatiaia National Park, Brazil</title>
+      <link>https://eliasmcosta.netlify.app/publication/conference-paper/egu2018/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/conference-paper/egu2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital elevation model quality on digital soil mapping prediction accuracy</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/ca2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/ca2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapping soil organic carbon and organic matter fractions by Geographically Weighted Regression</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/jeq2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/jeq2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RapidEye image processing for soil use mapping in rugged landscape accuracy</title>
+      <link>https://eliasmcosta.netlify.app/publication/journal-article/pab2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/publication/journal-article/pab2016/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapeamento digital de solos no Parque Nacional de Itatiaia</title>
+      <link>https://eliasmcosta.netlify.app/project/pni/</link>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/project/pni/</guid>
+      <description>&lt;p&gt;Description:
+Itatiaia National Park (INP) plateau in Rio de Janeiro State is characterized by high altitude and a cold climate environment, with endemic fauna and flora. Since knowledge about soils in this section of the park is scarce, our research aims to characterize soils in the INP plateau and their distribution associating field survey and techniques and tools for digital mapping. They include the study of spatial distribution of soil attributes, selection of predictor variables among environmental covariates such as geology, geomorphology, satellite imagery and derived indices; and related land attributes of the digital elevation model, such as: slope, planar curvature, profile curvature, distance to drainage, radiation contribution area, topographic wetness index, transport capacity sediment. The technique of Random Forest will be applied for modeling. A second goal is to evaluate the vulnerability of environments at INP plateau, using data from slope, geology, vegetation, and soil classes (information produced in this study), which will be integrated into a GIS environment for generating the vulnerability map. This product can be used by INP to select areas that ought to have restricted public use due to the high vulnerability, and to preserve them for future researches.
+We are grateful to INP administrators for providing access and support to data collection as well as the cartographic base, and the training and laboratory funding from Graduate Course in Agronomy – Soil Science, UFRRJ, Brazil. Thanks to The James Hutton Institute, Aberdeen, Scotland, for providing physical structure and specialized knowledge that aided the research, particularly the supervision of Dr. Laura Poggio. The work was supported by scholarships from the Ministry of Science, Technology, Innovations and Communications through CNPq (Process 141391/2015-4), the Ministry of Education through CAPES Foundation (Process 88881.135776/2016-01), and grants from FAPERJ Foundation (Process E_34/2014).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapeamento digital de solos em ambiente de &#34;Mar de Morros&#34; em Pinheiral-RJ</title>
+      <link>https://eliasmcosta.netlify.app/project/pinheiral/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/project/pinheiral/</guid>
+      <description>&lt;p&gt;Descrição: O levantamento de solos compreende a descrição das características morfológicas, físicas e químicas dos solos, a descrição da superfície e a determinação da distribuição dos solos na paisagem de uma determinada área, e pode ser utilizado para diversos fins. O conhecimento das características dos solos e sua distribuição na paisagem são fundamentais para o planejamento do uso e conservação das terras. O uso de técnicas de mapeamento digital de solos (MDS) pode otimizar a realização e aperfeiçoar os produtos dos levantamentos pedológicos através de ferramentas de sistemas de informações geográficas (SIG). O objetivo geral do projeto envolve a criação de banco de dados com dados legados e novos pontos de amostragem tendo como área de estudo a Fazenda São José do Pinheiro e adjacência, no município de Pinheiral (RJ), bem como a avaliação detalhada da representação da altimetria na área (avaliação do modelo digital de elevação - MDE) e sua relação com a acurácia do mapa de solo. Também é objetivo deste projeto proceder com a correção atmosférica na imagem de satélite (Rapid Eye) e avaliar o efeito da correção sobre o mapeamento de uso da terra além da avaliação do erro posicional da imagem. Por fim, proceder-se-á com o MDS em ambiente de Mar de Morros, aplicando a técnica de regressão logística múltipla, sendo avaliado se esse método permite boa acurácia dos mapas de classes de solos e unidades de mapeamento, que possam constituir material base para estudos ambientais e planejamento do uso das terras.
+Gostaria de agradecer à FAPERJ (Process E-26/100.422/2014) que financiou parte da minha bolsa de metrado e ao e CNPq  (141391/2015-4) que financiou a outra parte da bolsa de metrado.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eliasmcosta.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eliasmcosta.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
