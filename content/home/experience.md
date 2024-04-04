@@ -23,13 +23,44 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Professor/Pesquisador
+    company: Instituto Federal do Tocantins - Campus Pedro Afonso
+    company_url: 'https://www.ifto.edu.br/pedroafonso'
+    company_logo: ifto
+    location: Pedro Afonso - TO
+    date_start: '2024-04-10'
+    date_end: ''
+    description: |2-
+
+      Como Professor e Pesquisador no IFTO - Campus Pedro Afonso, eu dou aulas e lidero projetos nos cursos técnicos concomitantes e subsequentes em Agropecuária e no curso de bacharelado em Agronomia. Estou comprometido com a educação e a formação de futuros profissionais, preparando-os para inovar e enfrentar os desafios do setor agropecuário com sustentabilidade e eficácia.
+
+
+  - title: Pesquisador de Pós Doutorado
+    company: Instituto Federal Goiano 
+    company_url: 'https://www.ifgoiano.edu.br/home/index.php/rio-verde.html'
+    company_logo: if_goiano
+    location: Rio Verde - GO
+    date_start: '2023-12-01'
+    date_end: '2024-03-31'
+    description: |2-
+      
+      
+      O projeto "Machine learning e Drones no controle de mariposas em grandes culturas" representa uma colaboração inovadora entre o laboratório de Agricultura Preditiva (Sapfly) e diversos parceiros agrícolas para a implementação de uma abordagem tecnológica avançada no controle de mariposas em grandes culturas. Utilizando drones e técnicas de machine learning, o projeto visa otimizar a aplicação de chamarizes e inseticidas, reduzindo os danos causados por pragas em culturas significativas como soja e milho safrinha.
+        
+        Principais atribuições:
+        * Apoiar desenvolvimento e implementação de plataforma web para criação de planos de voos de drones.
+        * Coordenar testes de campo e análise de eficácia de aplicações de chamariz em soja e milho.
+        *  Supervisionar coleta e análise de dados sobre pragas e e avaliação de danos.
+        * Gerenciar inovações, parcerias técnicas e comunicação científica.
+        * Apoiar em modelagem e predição de dinâmica populacional de mariposas.
+
   - title: Analista de Pesquisa e Desenvolvimento Agrícola (P&D) 
     company: Instituto Goiano de Agricultura (IGA)
     company_url: 'https://iga-go.com.br/'
     company_logo: iga-logo
-    location: Montividiu-GO
+    location: Montividiu - GO
     date_start: '2022-06-06'
-    date_end: ''
+    date_end: '2023-11-08'
     description: |2-
         
         O IGA tem como missão realizar pesquisas agrícolas com qualidade e credibilidade, segundo a demanda dos produtores e parceiros, validando e transferindo tecnologias para fortalecer a agricultura de forma sustentável no Estado de Goiás e no Brasil.
@@ -46,7 +77,7 @@ experience:
     company: Universidade Federal Rural do Rio de Janeiro
     company_url: 'https://portal.ufrrj.br/'
     company_logo: ufrrj-logo
-    location: Seropédica-RJ
+    location: Seropédica - RJ
     date_start: '2019-01-04'
     date_end: '2022-01-05'
     description: |2-
@@ -81,7 +112,7 @@ experience:
     company: Universidade Federal Rural do Rio de Janeiro
     company_url: 'http://cursos.ufrrj.br/posgraduacao/cpgacs/'
     company_logo: ufrrj-logo
-    location: Seropédica-RJ
+    location: Seropédica - RJ
     date_start: '2013-03-01'
     date_end: '2015-02-26'
     description: |2-

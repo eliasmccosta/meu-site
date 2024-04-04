@@ -6,12 +6,12 @@ title: Elias Mendes Costa
 superuser: true
 
 # Role/position/tagline
-role: Analista de Pesquisa e Desenvolvimento Agrícola (P&D) em Solos e Fitotecnia
+role: Professor EBTT
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Instituto Goiano de Agricultura
-    url: https://iga-go.com.br/
+  - name: Instituto Federal do Tocantins
+    url: https://www.ifto.edu.br/pedroafonso
 
 # Short bio (displayed in user profile at end of posts)
 bio: Meu principal interesse acadêmico-científico-profissional envolve gênese, morfologia, classificação, fertilidade e manejo de solos, levantamento e mapeamento digital de solos, pedologia quantitativa (pedometria), geotecnologias e análise ambiental, modelagem e programação. E mais recentemente experimentação agrícola e desenvolvimento técnico científico com as principais culturas agrícolas do país. 
@@ -80,6 +80,12 @@ email: 'eliasmccosta@gmail.com'
 highlight_name: true
 ---
 
-Eu, Elias Mendes Costa, nasci no município de São Francisco - MG, no dia 02 de novembro de 1989. Em 2004 conclui o ensino fundamental na Escola Estadual Sebastiana Pereira da Silva no Povoado Santana de Minas (Jiboia), Município de São Francisco-MG, onde estudei desde o maternal. Em 2007 conclui o ensino médio no Colégio Prisma, Montes Claros- MG. Em 2008 ingressei no curso de graduação em Engenharia Agronômica da Universidade Federal Rural do Rio de Janeiro (UFRRJ), concluindo-o em 2013. Durante o período de graduação fui bolsista de Iniciação Científica (PROIC e AGRISUS) também exerci monitoria da disciplina de Física do Solo. Em março de 2013 ingressei no Mestrado do Programa de Pós-graduação em Agronomia - Ciência do Solo (PPGA-CS), na UFRRJ, concluindo-o em fevereiro de 2015. Em 2016 ingressei no Curso de Especialização em Estatística Aplicada (latu sensu) da UFRRJ em concluindo-o em novembro de 2017. Em março de 2015 ingressei no Doutorado do PPGA-CS, na UFRRJ, concluindo-o em fevereiro de 2019. Durante o doutorado fiz estágio no exterior, Doutorado Sanduíche de maio de 2017 a abril de 2018 no The James Hutton Institute, Aberdeen, Escócia. De Abril de 2019 a junho de 2022 desenvolvi pesquisas em mapeamento digital de solos em área de produção de petróleo e gás na Amazônia e Bahia  como pesquisador de Pós Doutorado num projeto em parceria da UFRRJ com Petrobras. Atualmente estou como analista de pesquisa e desenvolvimento junto a equipe de solos e fitotecnia do Instituto Goiano de Agricultura (IGA) desenvolvendo pesquisa e tecnologia para as culturas de soja, milho, algodão e feijão.
+Eu sou Elias Mendes Costa, nascido em São Francisco, Minas Gerais, em 2 de novembro de 1989. Completei meu ensino fundamental em 2004, na Escola Estadual Sebastiana Pereira da Silva, localizada no Povoado Santana de Minas (Jiboia), São Francisco - MG, onde minha jornada educacional começou ainda no maternal. Em 2007, finalizei o ensino médio no Colégio Prisma, em Montes Claros, MG. Segui minha trajetória acadêmica ingressando, em 2008, no curso de Engenharia Agronômica na Universidade Federal Rural do Rio de Janeiro (UFRRJ), concluindo-o em 2013. Durante a graduação, participei de programas de Iniciação Científica (PROIC e AGRISUS) e exerci a função de monitor da disciplina de Física do Solo.
+
+Prossegui meus estudos na UFRRJ, iniciando o mestrado no Programa de Pós-graduação em Agronomia - Ciência do Solo (PPGA-CS) em março de 2013, concluindo-o em fevereiro de 2015. Em 2016, ingressei no Curso de Especialização em Estatística Aplicada (latu sensu) na mesma instituição, finalizando-o em novembro de 2017. No mês seguinte, comecei o doutorado no PPGA-CS, concluído em fevereiro de 2019. Durante o doutorado, realizei um estágio no exterior, o Doutorado Sanduíche, de maio de 2017 a abril de 2018, no The James Hutton Institute, em Aberdeen, Escócia.
+
+Entre abril de 2019 e junho de 2022, trabalhei como pesquisador de pós-doutorado em um projeto em parceria com a Petrobras, desenvolvendo pesquisas em mapeamento digital de solos nas áreas de produção de petróleo e gás na Amazônia e na Bahia. De maio de 2022 a novembro de 2023, atuei como analista de pesquisa e desenvolvimento na equipe de solos e fitotecnia do Instituto Goiano de Agricultura (IGA), onde desenvolvi pesquisas e tecnologias voltadas para as culturas de soja, milho, algodão e sorgo. De dezembro de 2023 a março de 2024, fui Pesquisador de Pós-Doutorado no Instituto Federal Goiano, no Polo de Inovação EMBRAPII, focando em pesquisa em agricultura digital e novas tecnologias.
+
+Atualmente, ocupo a posição de Professor Adjunto no Instituto Federal do Tocantins - Campus Pedro Afonso, onde continuo a contribuir para o avanço da pesquisa e educação na área de agronomia.
 
 {{< icon name="download" pack="fas" >}} Download do meu {{< staticref "uploads/currículo atualizado.pdf" "newtab" >}}currículo{{< /staticref >}}.

@@ -28,18 +28,18 @@ content:
   email: eliasmccosta@gmail.com
   phone: (21) 998530064
   address:
-    street: Rodovia GO-174, Km-45 a direita 3,5km, Zona Rural 
-    city: Montividiu
-    region: Goiás
-    postcode: 75915-000
+    street:  Rua Ceará, Nº 1441 Setor Zacarias Campelo 
+    city: Pedro Afonso - TO
+    region: Tocantins
+    postcode: 77710-000
     country: Brasil
     country_code: PT
   coordinates:
-    latitude: -17.441907
-    longitude: -51.143049
+    latitude: -8.98742
+    longitude: -48.16104
   office_hours:
-    - 'Segunda 7:30 as 17:30'
-    - 'Sexta 7:30 as 17:30'
+    - 'Segunda 7:00 as 17:00'
+    - 'Sexta 7:00 as 17:00'
 
 
 design:
