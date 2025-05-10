@@ -26,7 +26,7 @@ experience:
   - title: Professor/Pesquisador
     company: Instituto Federal do Tocantins - Araguatins
     company_url: 'https://www.ifto.edu.br/araguatins'
-    company_logo: ifto
+    company_logo: logo-araguatins
     location: Araguatins - TO
     date_start: '2025-04-28'
     date_end: ''
