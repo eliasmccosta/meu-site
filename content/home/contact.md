@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: eliasmccosta@gmail.com
-  phone: (21) 998530064
+  phone: (63) 991013146
   address:
     street: POVOADO SANTA TEREZA, KM 05, S/N ZONA RURAL 
     city: Araguatins - TO
