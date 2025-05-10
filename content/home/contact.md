@@ -28,15 +28,15 @@ content:
   email: eliasmccosta@gmail.com
   phone: (21) 998530064
   address:
-    street:  Rua Ceará, Nº 1441 Setor Zacarias Campelo 
-    city: Pedro Afonso - TO
+    street: POVOADO SANTA TEREZA, KM 05, S/N ZONA RURAL 
+    city: Araguatins - TO
     region: Tocantins
-    postcode: 77710-000
+    postcode: 77650-000
     country: Brasil
     country_code: PT
   coordinates:
-    latitude: -8.98742
-    longitude: -48.16104
+    latitude: -5.652155
+    longitude: -48.075374
   office_hours:
     - 'Segunda 7:00 as 17:00'
     - 'Sexta 7:00 as 17:00'

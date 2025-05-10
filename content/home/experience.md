@@ -24,15 +24,41 @@ date_format: Jan 2006
 
 experience:
   - title: Professor/Pesquisador
+    company: Instituto Federal do Tocantins - Araguatins
+    company_url: 'https://www.ifto.edu.br/araguatins'
+    company_logo: ifto
+    location: Araguatins - TO
+    date_start: '2025-04-28'
+    date_end: ''
+    description: |2-
+
+      Como Professor e Pesquisador no IFTO - Campus Araguatins, eu dou aulas e lidero projetos nos cursos técnicos em Agropecuária e no curso de bacharelado em Agronomia. Estou comprometido com a educação e a formação de futuros profissionais, preparando-os para inovar e enfrentar os desafios do setor agropecuário com sustentabilidade e eficácia.
+
+
+  - title: Professor/Pesquisador
     company: Instituto Federal do Tocantins - Campus Pedro Afonso
     company_url: 'https://www.ifto.edu.br/pedroafonso'
     company_logo: ifto
     location: Pedro Afonso - TO
     date_start: '2024-04-10'
-    date_end: ''
+    date_end: '2025-04-16'
     description: |2-
 
       Como Professor e Pesquisador no IFTO - Campus Pedro Afonso, eu dou aulas e lidero projetos nos cursos técnicos concomitantes e subsequentes em Agropecuária e no curso de bacharelado em Agronomia. Estou comprometido com a educação e a formação de futuros profissionais, preparando-os para inovar e enfrentar os desafios do setor agropecuário com sustentabilidade e eficácia.
+        
+        Disciplinas lecionadas:
+        * Microbiologia Agrícola;
+        * Topografia;
+        * Softwares Aplicados À Estatística Experimental;
+        * Cartografia, Geoprocessamento e Georreferenciamento;
+        * Física Aplicada Às Ciências Agrárias;
+        * Gênese, Morfologia e Física do Solo;
+        * Classificação, Aptidão e Uso dos Solos
+        
+        Projetos de Pesquisa:
+        * Mapeamento tridimensional da textura do solo nas dependências do IFTO, Campus Avançado Pedro Afonso - TO
+        * Efeito da Aplicação de Calcário e Inoculação com Bactérias Solubilizadoras de Fósforo na Produtividade de Soja e Milho
+
 
 
   - title: Pesquisador de Pós Doutorado
@@ -50,7 +76,7 @@ experience:
         Principais atribuições:
         * Apoiar desenvolvimento e implementação de plataforma web para criação de planos de voos de drones.
         * Coordenar testes de campo e análise de eficácia de aplicações de chamariz em soja e milho.
-        *  Supervisionar coleta e análise de dados sobre pragas e e avaliação de danos.
+        * Supervisionar coleta e análise de dados sobre pragas e e avaliação de danos.
         * Gerenciar inovações, parcerias técnicas e comunicação científica.
         * Apoiar em modelagem e predição de dinâmica populacional de mariposas.
 

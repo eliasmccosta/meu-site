@@ -11,7 +11,7 @@ role: Professor EBTT
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Instituto Federal do Tocantins
-    url: https://www.ifto.edu.br/pedroafonso
+    url: https://www.ifto.edu.br/araguatins
 
 # Short bio (displayed in user profile at end of posts)
 bio: Meu principal interesse acadêmico-científico-profissional envolve gênese, morfologia, classificação, fertilidade e manejo de solos, levantamento e mapeamento digital de solos, pedologia quantitativa (pedometria), geotecnologias e análise ambiental, modelagem e programação. E mais recentemente experimentação agrícola e desenvolvimento técnico científico com as principais culturas agrícolas do país. 
@@ -86,6 +86,6 @@ Prossegui meus estudos na UFRRJ, iniciando o mestrado no Programa de Pós-gradua
 
 Entre abril de 2019 e junho de 2022, trabalhei como pesquisador de pós-doutorado em um projeto em parceria com a Petrobras, desenvolvendo pesquisas em mapeamento digital de solos nas áreas de produção de petróleo e gás na Amazônia e na Bahia. De maio de 2022 a novembro de 2023, atuei como analista de pesquisa e desenvolvimento na equipe de solos e fitotecnia do Instituto Goiano de Agricultura (IGA), onde desenvolvi pesquisas e tecnologias voltadas para as culturas de soja, milho, algodão e sorgo. De dezembro de 2023 a março de 2024, fui Pesquisador de Pós-Doutorado no Instituto Federal Goiano, no Polo de Inovação EMBRAPII, focando em pesquisa em agricultura digital e novas tecnologias.
 
-Atualmente, ocupo a posição de Professor Adjunto no Instituto Federal do Tocantins - Campus Pedro Afonso, onde continuo a contribuir para o avanço da pesquisa e educação na área de agronomia.
+Atualmente, ocupo a posição de Professor Adjunto no Instituto Federal do Tocantins - Campus Araguatins, onde continuo a contribuir para o avanço da pesquisa e educação na área de agronomia.
 
 {{< icon name="download" pack="fas" >}} Download do meu {{< staticref "uploads/currículo atualizado.pdf" "newtab" >}}currículo{{< /staticref >}}.

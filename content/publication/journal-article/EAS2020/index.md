@@ -39,11 +39,11 @@ abstract: A Bayesian belief network (BBN) was implemented to assess environmenta
 summary: The objective of this work was to use information on soils, land use/cover, climate, relief and parent material to create a BBN for analysing environmental vulnerability.
 
 tags:
-  - Environmental management.
-  - Soil conservation.
-  - Probabilistic reasoning.
-  - Expert-based systems.
-  - Uncertainty.
+  - Environmental management
+  - Soil conservation
+  - Probabilistic reasoning
+  - Expert-based systems
+  - Uncertainty
 
 # Display this page in the Featured widget?
 featured: true

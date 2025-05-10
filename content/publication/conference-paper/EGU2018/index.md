@@ -39,11 +39,11 @@ abstract: The Itatiaia National Park (INP) located in the south-eastern region o
 summary: The results of this modelling exercise can be further used for environmental models, such as vulnerability risk assessment.
 
 tags:
-  - Environmental management.
-  - Soil conservation.
-  - 3D Models.
-  - GAM.
-  - Uncertainty.
+  - Environmental management
+  - Soil conservation
+  - 3D Models
+  - GAM
+  - Uncertainty
 
 # Display this page in the Featured widget?
 featured: true
